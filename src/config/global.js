@@ -1,17 +1,22 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    Name: 'Diseño y control del plan de marketing',
+    Description:
+      'El componente formativo desarrolla el diseño y control del plan de marketing, orientando la formulación de objetivos, estrategias y tácticas, así como la asignación de recursos, cronogramas e indicadores de gestión. Integra herramientas de seguimiento, auditoría y mejora continua que permiten evaluar el desempeño comercial y garantizar coherencia entre la planificación, ejecución y resultados organizacionales en contextos empresariales dinámicos.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.png'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.png'),
       },
     ],
   },
@@ -64,6 +69,12 @@ export default {
         nombreRuta: 'tema5',
         numero: '5',
         titulo: 'Tema 5',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: 'Tema 6',
         desarrolloContenidos: true,
       },
     ],
