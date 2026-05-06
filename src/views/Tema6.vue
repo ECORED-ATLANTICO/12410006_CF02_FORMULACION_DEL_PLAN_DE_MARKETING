@@ -107,6 +107,161 @@
       .h2(data-aos="fade-right") 6.2 Clases
     .mb-0 
 
+    p.mb-5(data-aos="zoom-in-right") Los KPI pueden clasificarse según el tipo de objetivo estratégico que respaldan dentro del <em>marketing</em>. Esta clasificación permite comprender que cada organización define sus KPI en función de sus prioridades empresariales.
+
+    .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
+      h5 Tabla 6.
+      |  Tipos de KPI en <em>marketing</em> 
+    .tabla-a.mb-5(data-aos="flip-left")
+      table
+        caption 
+          p Nota. SENA, (2026).
+        thead
+          tr
+            th.col-auto.col-lg-4 Tipo de KPI
+            th.col-auto.col-lg-auto Descripción
+            th.col-auto.col-lg-4 Ejemplo
+        tbody
+          tr
+            td.text-start KPI de alcance.
+            td.text-start Evalúan el nivel de visibilidad y exposición de la marca.
+            td.text-start Crecimiento porcentual mensual.
+          tr
+            td.text-start KPI de engagement.
+            td.text-start Miden el grado de interacción y conexión entre la marca y su comunidad.
+            td.text-start Tasa de interacción o engagement rate. 
+          tr
+            td.text-start KPI de conversión.
+            td.text-start Analizan la capacidad de la estrategia para generar acciones concretas que aporten valor al negocio.
+            td.text-start Tasa de conversión, generación de leads.
+          tr
+            td.text-start KPI financieros.
+            td.text-start Relacionan resultados con rentabilidad e inversión realizada.
+            td.text-start ROI (retorno sobre inversión).
+          tr
+            td.text-start KPI de fidelización.
+            td.text-start Evalúan la permanencia y lealtad del cliente en el tiempo.
+            td.text-start Tasa de retención de clientes.
+
+    .bg_img_22.mb-0
+
+      p.mb-4(data-aos="zoom-in-right") Es importante destacar que no todas las empresas priorizan los mismos KPI. Una empresa enfocada en posicionamiento priorizará KPI de alcance e interacción, mientras que una organización orientada a ventas priorizará KPI de conversión y financieros.
+
+      .row.justify-content-center.align-items-center.mb-5
+        .col-12.col-lg-7.order-2.order-lg-1 
+          .tarjeta.tarjeta--fondo-img-2.p-4.rounded-4.mb-3(data-aos="zoom-in-right")
+            .row.justify-content-center.align-items-center.mb-0
+              .col-lg-2.d-lg-block.d-none(data-aos="zoom-in-right")
+                figure
+                  img(src='@/assets/curso/tema6/img_14.svg', class="img-fluid") 
+              .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
+                p.mb-0 En cuanto a la aplicabilidad de los KPI radica en su capacidad para simplificar la complejidad del entorno digital y enfocar la atención en lo verdaderamente estratégico. En lugar de analizar múltiples métricas dispersas, los KPI permiten concentrarse en los indicadores que impactan directamente el desempeño organizacional.
+          p.mb-0(data-aos="zoom-in-right") Por ejemplo, la empresa Airbnb puede establecer como KPI principal la tasa de conversión de reservas provenientes de campañas digitales, ya que su objetivo estratégico es aumentar ocupación y ventas. Por su parte, Adidas podría priorizar como KPI el nivel de engagement en lanzamientos de producto, si su meta está asociada al posicionamiento y fortalecimiento de marca en redes sociales.
+        .col-10.col-lg-5.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+          figure
+            img(src='@/assets/curso/tema6/img_15.png', class="img-fluid")
+
+      p.mb-3(data-aos="zoom-in-right") Asimismo, una empresa emergente puede definir como KPI el costo por adquisición de cliente (CAC), si su interés principal es optimizar inversión publicitaria.
+
+    .bg_img_23.mb-0
+
+      Separador
+
+      #t_6_3.titulo-segundo.color-acento-contenido
+        .h2(data-aos="fade-right") 6.3 Técnica de elaboración
+      .mb-0 
+
+      .tarjeta.color-secundario-10.p-3.rounded-4.mb-5(data-aos="zoom-in-right")
+        p.mb-0 La formulación de KPI debe responder directamente a los objetivos definidos, evitando indicadores irrelevantes o difíciles de interpretar. 
+
+      .row.justify-content-center.align-items-stretch.mb-5
+        .col-12.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
+          p.mb-4(data-aos="zoom-in-right") Las fases para la construcción de KPI son:
+          figure
+            img(src='@/assets/curso/tema6/img_17.png', class="img-fluid") 
+        .col-12.col-lg-4.mb-3.mb-lg-0
+          .tarjeta.color-primario-5.p-3.rounded-4.mb-3(data-aos="zoom-in-right")
+            p.mb-0 A.	Identificar el objetivo estratégico.
+          .tarjeta.color-primario-5.p-3.rounded-4.mb-3(data-aos="zoom-in-right")
+            p.mb-0 B.	Determinar la variable crítica de éxito.
+          .tarjeta.color-primario-5.p-3.rounded-4.mb-3(data-aos="zoom-in-right")
+            p.mb-0 C.	Establecer la forma de medición.
+          .tarjeta.color-primario-5.p-3.rounded-4.mb-3(data-aos="zoom-in-right")
+            p.mb-0 D.	Definir un valor meta.
+          .tarjeta.color-primario-5.p-3.rounded-4.mb-0(data-aos="zoom-in-right")
+            p.mb-0 E.	Asignar periodicidad de seguimiento.
+
+    p.mb-5(data-aos="zoom-in-right") A continuación, se presenta un ejemplo de estructuración de KPI:
+
+    .bg_img_24.mb-0
+
+      .row.justify-content-center.align-items-center.mb-5
+        .col-10.col-lg-5.mb-3.mb-lg-0(data-aos="zoom-in-right")
+          figure
+            img(src='@/assets/curso/tema6/img_19.png', class="img-fluid") 
+        .col-12.col-lg-7
+          .tarjeta.tarjeta--fondo-img-1.p-4.rounded-4.mb-3(data-aos="zoom-in-right")
+            .row.justify-content-center.align-items-center.mb-0
+              .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
+                p.mb-0 El objetivo es incrementar clientes, utilizando como indicador la tasa de captación. El método de cálculo se basa en la relación entre clientes nuevos y el total de prospectos. Se establece una meta del 20 % y una periodicidad de medición mensual.
+              .col-lg-2.d-lg-block.d-none.p-1(data-aos="zoom-in-right")
+                figure
+                  img(src='@/assets/curso/tema6/img_20.svg', class="img-fluid")
+          p.mb-3(data-aos="zoom-in-right") Teniendo en cuenta lo anterior, una empresa puede medir la efectividad de una campaña mediante la relación entre la inversión realizada y los clientes generados, lo que permite evaluar el rendimiento de sus acciones de <em>marketing</em>  de forma objetiva. 
+          .tarjeta.color-terciario-5.p-3.rounded-4.mb-3(data-aos="zoom-in-right")
+            p.mb-0 En este contexto, un KPI bien diseñado se enfoca en indicadores clave como la tasa de captación o el costo por adquisición, facilitando la medición de lo realmente importante y evitando la generación de información innecesaria que no aporte valor a la toma de decisiones.
+
+      Separador
+
+      #t_6_4.titulo-segundo.color-acento-contenido
+        .h2(data-aos="fade-right") 6.4 Interpretación
+      .mb-0 
+      
+      p.mb-5(data-aos="zoom-in-right") La utilidad de los KPI radica en su capacidad para generar análisis que orienten la toma de decisiones dentro de un plan de <em>marketing</em> . A partir de su interpretación, es posible clasificar los resultados en distintos niveles de desempeño: 
+
+      .row.justify-content-center.align-items-stretch.mb-3
+        .col-12.col-lg-8.mb-3(data-aos="zoom-in-right")
+          .tarjeta-numerada.color-primario-10.h-100
+            .tarjeta-numerada__numero.d-flex.align-items-center.justify-content-center
+              figure
+                img(src='@/assets/curso/tema6/img_21.svg', class="img-fluid") 
+            p.mb-0 Cuando se presenta un alto desempeño, es decir, se superan las metas establecidas, la decisión más adecuada es escalar la estrategia para potenciar los resultados.
+      
+    .row.justify-content-center.align-items-stretch.mb-4
+      .col-12.col-lg-8.mb-4(data-aos="zoom-in-right")
+        .tarjeta-numerada.color-secundario-10.h-100
+          .tarjeta-numerada__numero.d-flex.align-items-center.justify-content-center
+            figure
+              img(src='@/assets/curso/tema6/img_22.svg', class="img-fluid") 
+          p.mb-0 Si el desempeño es el esperado y cumple con los objetivos, se recomienda mantener las acciones implementadas.
+      .col-12.col-lg-8.mb-4(data-aos="zoom-in-right")
+        .tarjeta-numerada.color-terciario-10.h-100
+          .tarjeta-numerada__numero.d-flex.align-items-center.justify-content-center
+            figure
+              img(src='@/assets/curso/tema6/img_23.svg', class="img-fluid") 
+          p.mb-0 Cuando existe un bajo desempeño y no se alcanzan las metas, se hace necesario ajustar o rediseñar la estrategia. Por ejemplo, si una campaña presenta un rendimiento bajo, se deben revisar aspectos clave como la segmentación del público, ajustar el mensaje para hacerlo más relevante y redefinir los canales de comunicación utilizados. 
+
+    p.mb-5(data-aos="zoom-in-right") Por lo anterior, la interpretación de los KPI no solo permite medir resultados, sino que transforma los datos en acciones concretas, cerrando el ciclo de control del plan de <em>marketing</em>  y facilitando la mejora continua, basada en evidencia.
+
+    .row.justify-content-center.align-items-center(data-aos="fade-right")
+      .col-12.col-lg-10.mb-5
+        .tarjeta--bg-img.color-acento-contenido.rounded-3.overflow-hidden.p-2
+          .row.align-items-center.mb-0
+            .col-6.col-lg-2.mx-auto.text-center.p-4
+              figure.m-2
+                img(src="@/assets/curso/tema1/img_27.svg" )
+            .col-12.col-lg-10.p-4 
+              p.fw-bold.text-white.mb-3 Se invita a consultar los siguientes recursos prácticos para comprender qué es un KPI, cómo estructurarlo y conocer ejemplos aplicados a la medición en <em>marketing</em> .
+              a.boton.color-acento-botones.d-inline-flex.mb-3(href="https://www.youtube.com/watch?v=L4l5ocVM4SY" target="_blank")
+                span KPIs en redes sociales: ¿qué son?
+                i.fas.fa-play-circle.ms-2
+              a.boton.color-acento-botones.d-inline-flex.mb-3(href="https://www.youtube.com/watch?v=QfYQGfrkAeY" target="_blank")
+                span Métricas KPIs OKRs : ¿qué métricas tener en cuenta para medir el crecimiento?
+                i.fas.fa-play-circle.ms-2
+              a.boton.color-acento-botones.d-inline-flex.mb-2(href="https://www.youtube.com/watch?v=SzQoiyjwO5c" target="_blank")
+                span 5 métricas clave para analizar tus redes sociales
+                i.fas.fa-play-circle.ms-2
+
 </template>
 
 <script>
