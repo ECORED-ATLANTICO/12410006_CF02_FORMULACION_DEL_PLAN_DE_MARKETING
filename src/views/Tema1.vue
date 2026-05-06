@@ -180,7 +180,7 @@
     .mb-0 
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-10.col-md-8.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-10.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema1/img_18.png', class="img-fluid") 
       .col-12.col-lg-8
@@ -277,10 +277,10 @@
       .col-12.col-lg-10.mb-5
         .tarjeta--bg-img.color-acento-contenido.rounded-3.overflow-hidden.p-2
           .row.align-items-center.mb-0
-            .col-6.col-md-4.col-lg-2.mx-auto.text-center.p-4
+            .col-6.col-lg-2.mx-auto.text-center.p-4
               figure.m-2
                 img(src="@/assets/curso/tema1/img_27.svg" )
-            .col-12.col-md-8.col-lg-10.p-4
+            .col-12.col-lg-10.p-4
               p.fw-bold.text-white.mb-3 Para profundizar en la formulación de objetivos SMART en <em>marketing</em>, te invitamos a consultar el siguiente video explicativo:
               a.boton.color-acento-botones.d-inline-flex.mb-2(href="https://www.youtube.com/watch?v=gY607xwUgpw&t=9s" target="_blank")
                 span Planeamiento de objetivos bajo el método SMART
@@ -290,10 +290,10 @@
       .col-12.col-lg-10.mb-5
         .tarjeta--bg-img.color-primario-70.rounded-3.overflow-hidden.p-2
           .row.align-items-center.mb-0
-            .col-6.col-md-4.col-lg-2.mx-auto.text-center.p-4
+            .col-6.col-lg-2.mx-auto.text-center.p-4
               figure.m-2
                 img(src="@/assets/curso/tema1/img_28.svg" )
-            .col-12.col-md-8.col-lg-10.p-4
+            .col-12.col-lg-10.p-4
               p.fw-bold.text-white.mb-3 Para ampliar la información sobre la formulación de objetivos en <em>marketing</em>, se invita a consultar el siguiente recurso (Páginas 17-19):
               a.boton.color-acento-botones.d-inline-flex.mb-2(href="https://gc.scalahed.com/recursos/files/r161r/w24257w/LibroPlandeMarketing-1-92.pdf" target="_blank")
                 span PLAN DE <em>MARKETING</em>: diseño, implementación y control

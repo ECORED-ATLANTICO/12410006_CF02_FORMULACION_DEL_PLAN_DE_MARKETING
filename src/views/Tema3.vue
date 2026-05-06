@@ -67,21 +67,21 @@
               th.col-auto.col-lg-5 Ejemplo
           tbody
             tr
-              td.text-star Producto.
-              td.text-star Acciones sobre el bien o servicio.
-              td.text-star Lanzamiento de nueva línea.
+              td.text-start Producto.
+              td.text-start Acciones sobre el bien o servicio.
+              td.text-start Lanzamiento de nueva línea.
             tr
-              td.text-star Precio.
-              td.text-star Ajustes en valor monetario.
-              td.text-star Descuentos, promociones.
+              td.text-start Precio.
+              td.text-start Ajustes en valor monetario.
+              td.text-start Descuentos, promociones.
             tr
-              td.text-star Plaza.
-              td.text-star Distribución y canales.
-              td.text-star Venta online, domicilios.
+              td.text-start Plaza.
+              td.text-start Distribución y canales.
+              td.text-start Venta online, domicilios.
             tr
-              td.text-star Promoción.
-              td.text-star Comunicación y publicidad.
-              td.text-star Redes sociales, campañas.
+              td.text-start Promoción.
+              td.text-start Comunicación y publicidad.
+              td.text-start Redes sociales, campañas.
 
     .row.justify-content-center.align-items-stretch.mb-5
       .col-12.col-lg-5.d-flex.order-2.order-lg-1
@@ -152,10 +152,10 @@
       .col-12.col-lg-10.mb-5
         .tarjeta--bg-img.color-acento-contenido.rounded-3.overflow-hidden.p-2
           .row.align-items-center.mb-0
-            .col-6.col-md-4.col-lg-2.mx-auto.text-center.p-4
+            .col-6.col-lg-2.mx-auto.text-center.p-4
               figure.m-2
                 img(src="@/assets/curso/tema1/img_27.svg" )
-            .col-12.col-md-8.col-lg-10.p-4 
+            .col-12.col-lg-10.p-4 
               p.fw-bold.text-white.mb-3 Para facilitar la comprensión sobre la creación de tácticas de <em>marketing</em>, se invita a visualizar el siguiente recurso audiovisual, el cual presenta de manera práctica y didáctica los elementos clave para su diseño e implementación en contextos reales:
               a.boton.color-acento-botones.d-inline-flex.mb-2(href="https://www.youtube.com/watch?v=qqwvCHoNO18" target="_blank")
                 span Implementa correctamente estrategias y tácticas 

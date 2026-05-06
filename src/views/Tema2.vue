@@ -90,25 +90,25 @@
               th.col-auto.col-lg-5 Aplicación
           tbody
             tr
-              td.text-star Orientación al mercado.
-              td.text-star Se enfoca en el cliente.
-              td.text-star Responde a necesidades reales.
+              td.text-start Orientación al mercado.
+              td.text-start Se enfoca en el cliente.
+              td.text-start Responde a necesidades reales.
             tr
-              td.text-star Coherencia.
-              td.text-star Alineada con objetivos.
-              td.text-star No contradice la planificación.
+              td.text-start Coherencia.
+              td.text-start Alineada con objetivos.
+              td.text-start No contradice la planificación.
             tr
-              td.text-star Diferenciación.
-              td.text-star Genera valor único.
-              td.text-star Evita competir solo por precio.
+              td.text-start Diferenciación.
+              td.text-start Genera valor único.
+              td.text-start Evita competir solo por precio.
             tr
-              td.text-star Flexibilidad.
-              td.text-star Se adapta al entorno.
-              td.text-star Ajuste ante cambios.
+              td.text-start Flexibilidad.
+              td.text-start Se adapta al entorno.
+              td.text-start Ajuste ante cambios.
             tr
-              td.text-star Integración.
-              td.text-star Coordina áreas.
-              td.text-star <em>marketing</em>, ventas y operaciones.
+              td.text-start Integración.
+              td.text-start Coordina áreas.
+              td.text-start <em>marketing</em>, ventas y operaciones.
 
     .tarjeta.tarjeta--fondo-img-2.p-4.rounded-4.mb-3(data-aos="zoom-in-right")
       .row.justify-content-center.align-items-center.mb-0
@@ -235,10 +235,10 @@
       .col-12.col-lg-10.mb-5
         .tarjeta--bg-img.color-acento-contenido.rounded-3.overflow-hidden.p-2
           .row.align-items-center.mb-0
-            .col-6.col-md-4.col-lg-2.mx-auto.text-center.p-4
+            .col-6.col-lg-2.mx-auto.text-center.p-4
               figure.m-2
                 img(src="@/assets/curso/tema1/img_27.svg" )
-            .col-12.col-md-8.col-lg-10.p-4
+            .col-12.col-lg-10.p-4
               p.fw-bold.text-white.mb-3 Para profundizar más en el tema, se sugiere visualizar el siguiente video, el cual permite comprender de manera práctica la aplicación de estas estrategias:
               a.boton.color-acento-botones.d-inline-flex.mb-2(href="https://www.youtube.com/watch?v=fOGstfMY0So" target="_blank")
                 span 35 Tipos de Estrategias de <em>marketing</em> que Funcionan

@@ -133,91 +133,91 @@
         tbody
           tr
             td(rowspan="4") DISTRIBUCIÓN.
-            td.text-star Entrega a domicilio.
-            td.text-star 80 %
-            td.text-star $2.870.700
-            td.text-star $2.097.600
-            td.text-star $3.257.100
+            td.text-start Entrega a domicilio.
+            td.text-start 80 %
+            td.text-start $2.870.700
+            td.text-start $2.097.600
+            td.text-start $3.257.100
           tr
-            td.text-star Equipo soluciones posventa.
-            td.text-star 20 %
-            td.text-star $717.700
-            td.text-star $524.400
-            td.text-star $814.300
+            td.text-start Equipo soluciones posventa.
+            td.text-start 20 %
+            td.text-start $717.700
+            td.text-start $524.400
+            td.text-start $814.300
           tr
-            td.text-star Chat de atención al cliente.
-            td.text-star 0 %
-            td.text-star $0
-            td.text-star $0
-            td.text-star $0 
+            td.text-start Chat de atención al cliente.
+            td.text-start 0 %
+            td.text-start $0
+            td.text-start $0
+            td.text-start $0 
           tr
-            td.text-star TOTAL DISTRIBUCIÓN. 
-            td.text-star 100 %
-            td.text-star $3.588.400
-            td.text-star $2.622.000
-            td.text-star $4.071.400
+            td.text-start TOTAL DISTRIBUCIÓN. 
+            td.text-start 100 %
+            td.text-start $3.588.400
+            td.text-start $2.622.000
+            td.text-start $4.071.400
           tr
             td(rowspan="5") COMUNICACIÓN.
-            td.text-star Publicidad redes sociales.
-            td.text-star 10 %
-            td.text-star $1.255.900
-            td.text-star $917.700
-            td.text-star $1.425.000
+            td.text-start Publicidad redes sociales.
+            td.text-start 10 %
+            td.text-start $1.255.900
+            td.text-start $917.700
+            td.text-start $1.425.000
           tr
-            td.text-star Plataformas app e-commerce.
-            td.text-star 80 %
-            td.text-star $10.047.500
-            td.text-star $7.341.600
-            td.text-star $11.399.900
+            td.text-start Plataformas app e-commerce.
+            td.text-start 80 %
+            td.text-start $10.047.500
+            td.text-start $7.341.600
+            td.text-start $11.399.900
           tr
-            td.text-star Material publicitario.
-            td.text-star 5 %
-            td.text-star $628.000
-            td.text-star $458.900
-            td.text-star $712.500
+            td.text-start Material publicitario.
+            td.text-start 5 %
+            td.text-start $628.000
+            td.text-start $458.900
+            td.text-start $712.500
           tr
-            td.text-star Catálogos digitales.
-            td.text-star 5 %
-            td.text-star $628.000
-            td.text-star $458.900
-            td.text-star $712.500
+            td.text-start Catálogos digitales.
+            td.text-start 5 %
+            td.text-start $628.000
+            td.text-start $458.900
+            td.text-start $712.500
           tr
-            td.text-star TOTAL COMUNICACIÓN.
-            td.text-star 100 %
-            td.text-star $12.559.400
-            td.text-star $9.177.000
-            td.text-star $14.249.900
+            td.text-start TOTAL COMUNICACIÓN.
+            td.text-start 100 %
+            td.text-start $12.559.400
+            td.text-start $9.177.000
+            td.text-start $14.249.900
           tr
             td(rowspan="2") PRECIO.
-            td.text-star Cupones de descuento.
-            td.text-star 100 %
-            td.text-star $1.794.200
-            td.text-star $1.311.000
-            td.text-star $2.035.700
+            td.text-start Cupones de descuento.
+            td.text-start 100 %
+            td.text-start $1.794.200
+            td.text-start $1.311.000
+            td.text-start $2.035.700
           tr
-            td.text-star TOTAL PRECIO.
-            td.text-star 100 %
-            td.text-star $1.794.200
-            td.text-star $1.311.000
-            td.text-star $2.035.700
+            td.text-start TOTAL PRECIO.
+            td.text-start 100 %
+            td.text-start $1.794.200
+            td.text-start $1.311.000
+            td.text-start $2.035.700
           tr
             td(rowspan="2") OTROS.
-            td.text-star Otros.
-            td.text-star 0 %
-            td.text-star 0
-            td.text-star 0
-            td.text-star 0
+            td.text-start Otros.
+            td.text-start 0 %
+            td.text-start 0
+            td.text-start 0
+            td.text-start 0
           tr
-            td.text-star TOTAL OTROS.
-            td.text-star 0 %
-            td.text-star 0
-            td.text-star 0
-            td.text-star 0
+            td.text-start TOTAL OTROS.
+            td.text-start 0 %
+            td.text-start 0
+            td.text-start 0
+            td.text-start 0
           tr
-            td(colspan="3").text-star  PRESUPUESTO TOTAL.
-            td.text-star 17.942.000
-            td.text-star 13.110.000
-            td.text-star 20.357.000
+            td(colspan="3").text-start  PRESUPUESTO TOTAL.
+            td.text-start 17.942.000
+            td.text-start 13.110.000
+            td.text-start 20.357.000
 
     p.mb-5(data-aos="zoom-in-right") Una correcta elaboración del presupuesto permite controlar los recursos y evaluar la rentabilidad de las acciones de <em>marketing</em>.
 
@@ -233,10 +233,10 @@
       .col-12.col-lg-10.mb-5
         .tarjeta--bg-img.color-acento-contenido.rounded-3.overflow-hidden.p-2
           .row.align-items-center.mb-0
-            .col-6.col-md-4.col-lg-2.mx-auto.text-center.p-4
+            .col-6.col-lg-2.mx-auto.text-center.p-4
               figure.m-2
                 img(src="@/assets/curso/tema1/img_27.svg" )
-            .col-12.col-md-8.col-lg-10.p-4 
+            .col-12.col-lg-10.p-4 
               p.fw-bold.text-white.mb-3 Para fortalecer la comprensión sobre la asignación de recursos en <em>marketing</em>, se invita a revisar el siguiente recurso audiovisual, el cual permite comprender de manera práctica cómo se distribuyen y gestionan elementos clave como el presupuesto, el tiempo y el talento humano dentro de una estrategia:
               a.boton.color-acento-botones.d-inline-flex.mb-2(href="https://www.youtube.com/watch?v=yhZMbnuCxLI" target="_blank")
                 span 8 pasos para crear tu presupuesto de <em>marketing</em>: ¡aprende cómo hacerlo!
