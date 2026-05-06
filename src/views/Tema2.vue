@@ -21,7 +21,7 @@
         .h2(data-aos="fade-right") 2.1 Concepto
       .mb-0 
       
-      p.mb-4(data-aos="zoom-in-right") La estrategia de <em>marketing</em> es el enfoque general que adopta la empresa para lograr sus objetivos, articulando segmentación, selección de mercado objetivo y posicionamiento (STP), junto con el diseño del <em>marketing</em> mix.
+      p.mb-4(data-aos="zoom-in-right") La estrategia de <em>marketing</em> es el enfoque general que adopta la empresa para lograr sus objetivos, articulando segmentación, selección de mercado objetivo y posicionamiento (STP), junto con el diseño del <em>marketing</em> <em>mix</em>.
 
       .row.justify-content-center.align-items-stretch.mb-5
         .col-12.col-lg-6.mb-3.mb-lg-0
@@ -153,7 +153,7 @@
               .tarjeta--color-white.h-100
                 .tarjeta--10
                 h5.text-center.mb-3 Estrategia digital:
-                p.mb-3 Uso de canales digitales. Ejemplo: redes sociales, e-commerce.
+                p.mb-3 Uso de canales digitales. Ejemplo: redes sociales, <em>e-commerce</em>.
         .col-10.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="flip-left")
           figure(data-aos="zoom-out-up")
             img(src='@/assets/curso/tema2/img_13.png', class="img-fluid")
@@ -189,7 +189,7 @@
           .tarjeta.color-primario-5.p-3.rounded-4.mb-3(data-aos="zoom-in-right")
             p.mb-0 Diseñar la propuesta de valor.
           .tarjeta.color-primario-5.p-3.rounded-4.mb-0(data-aos="zoom-in-right")
-            p.mb-0 Integrar las variables del <em>marketing</em> mix.
+            p.mb-0 Integrar las variables del <em>marketing</em> <em>mix</em>.
         .col-12.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema2/img_16.png', class="img-fluid") 

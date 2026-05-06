@@ -17,7 +17,7 @@
                 figure
                   img(src='@/assets/curso/tema6/img_2.svg', class="img-fluid") 
               .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
-                p.mb-0 Los índices de gestión permiten evaluar el comportamiento del plan de marketing a partir de resultados medibles, facilitando el seguimiento de las acciones ejecutadas y su impacto en los objetivos organizacionales. Su uso es fundamental para transformar la información en decisiones estratégicas.
+                p.mb-0 Los índices de gestión permiten evaluar el comportamiento del plan de <em>marketing</em> a partir de resultados medibles, facilitando el seguimiento de las acciones ejecutadas y su impacto en los objetivos organizacionales. Su uso es fundamental para transformar la información en decisiones estratégicas.
           p.mb-0(data-aos="zoom-in-right") La correcta definición de KPI evita la dispersión analítica y orienta la gestión hacia resultados concretos, medibles y alineados con la planeación organizacional.
         .col-10.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
@@ -34,11 +34,11 @@
           figure
             img(src='@/assets/curso/tema6/img_4.png', class="img-fluid") 
         .col-12.col-lg-8
-          p.mb-3(data-aos="zoom-in-right") Un KPI (Key performance indicator) o indicador clave de desempeño, es un indicador clave de rendimiento seleccionado estratégicamente porque mide de manera directa el grado de cumplimiento de un objetivo prioritario del negocio. No se trata simplemente de un dato relevante, sino de una variable crítica que permite evaluar el desempeño real de la estrategia digital.
+          p.mb-3(data-aos="zoom-in-right") Un KPI (<em>Key performance indicator</em>) o indicador clave de desempeño, es un indicador clave de rendimiento seleccionado estratégicamente porque mide de manera directa el grado de cumplimiento de un objetivo prioritario del negocio. No se trata simplemente de un dato relevante, sino de una variable crítica que permite evaluar el desempeño real de la estrategia digital.
           .tarjeta.tarjeta--fondo-img-1.p-4.rounded-4.mb-3(data-aos="zoom-in-right")
             .row.justify-content-center.align-items-center.mb-0
               .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
-                p.mb-0 Mientras que las métricas pueden ser numerosas y los indicadores pueden ser variados, los KPI son aquellos que determinan si la organización avanza o no hacia sus metas estratégicas. Su definición parte del plan estratégico digital y debe estar vinculada a resultados tangibles, como incremento en ventas, posicionamiento de marca, generación de leads o rentabilidad.
+                p.mb-0 Mientras que las métricas pueden ser numerosas y los indicadores pueden ser variados, los KPI son aquellos que determinan si la organización avanza o no hacia sus metas estratégicas. Su definición parte del plan estratégico digital y debe estar vinculada a resultados tangibles, como incremento en ventas, posicionamiento de marca, generación de <em>leads</em> o rentabilidad.
               .col-lg-2.d-lg-block.d-none(data-aos="zoom-in-right")
                 figure
                   img(src='@/assets/curso/tema6/img_5.svg', class="img-fluid")
@@ -57,7 +57,7 @@
         .row.justify-content-center.align-items-center
           .col-12.col-lg-5.order-2.order-lg-1.mb-0
             h5.mb-5 Estar alineado con los objetivos organizacionales:
-            p.mb-0 Un KPI no debe ser elegido de manera aleatoria; debe reflejar directamente las metas estratégicas de la empresa. Esto asegura que las acciones y resultados medidos contribuyan al crecimiento, la eficiencia o la competitividad de la organización, evitando esfuerzos que no generen valor. Por ejemplo, si el objetivo de una empresa es aumentar las ventas online en un 20 % durante el año, un KPI relevante sería la tasa de conversión de visitantes a compradores en la tienda virtual.
+            p.mb-0 Un KPI no debe ser elegido de manera aleatoria; debe reflejar directamente las metas estratégicas de la empresa. Esto asegura que las acciones y resultados medidos contribuyan al crecimiento, la eficiencia o la competitividad de la organización, evitando esfuerzos que no generen valor. Por ejemplo, si el objetivo de una empresa es aumentar las ventas <em>online</em> en un 20 % durante el año, un KPI relevante sería la tasa de conversión de visitantes a compradores en la tienda virtual.
           .col-12.col-lg-6.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/tema6/img_6.png', class="img-fluid")

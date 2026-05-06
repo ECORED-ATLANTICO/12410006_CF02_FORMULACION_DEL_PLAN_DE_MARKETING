@@ -33,7 +33,7 @@
                   img(src='@/assets/curso/tema3/img_3.svg', class="img-fluid") 
               .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
                 p.mb-0 Las tácticas son las acciones operativas que ejecutan las estrategias de <em>marketing</em>, orientadas a generar resultados concretos en el corto plazo. Desde un enfoque aplicado, las tácticas responden a la pregunta: ¿qué se va a hacer exactamente?
-          p.mb-4(data-aos="zoom-in-right") Como aplicación práctica, cuando la estrategia consiste en posicionar una marca en el segmento juvenil, es necesario desarrollar tácticas coherentes con sus hábitos de consumo digital. En este sentido, se pueden implementar campañas en plataformas como TikTok apoyadas en influencers, diseñar promociones a través de aplicaciones móviles para incentivar la interacción y fidelización, y generar contenido digital interactivo que capte la atención y fomente la participación activa de este público objetivo.
+          p.mb-4(data-aos="zoom-in-right") Como aplicación práctica, cuando la estrategia consiste en posicionar una marca en el segmento juvenil, es necesario desarrollar tácticas coherentes con sus hábitos de consumo digital. En este sentido, se pueden implementar campañas en plataformas como TikTok apoyadas en <em>influencers</em>, diseñar promociones a través de aplicaciones móviles para incentivar la interacción y fidelización, y generar contenido digital interactivo que capte la atención y fomente la participación activa de este público objetivo.
         .col-12.col-lg-5.d-flex
           .tarjeta.color-primario-5.p-4.rounded-4.mb-0.h-100.d-flex.align-items-center(data-aos="zoom-in-right")
             .row.justify-content-center.align-items-center.mb-0
@@ -51,7 +51,7 @@
         .h2(data-aos="fade-right") 3.2 Clases
       .mb-0 
 
-      p.mb-4(data-aos="zoom-in-right") Las tácticas pueden clasificarse según las variables del <em>marketing</em> mix, lo que permite organizar su implementación.
+      p.mb-4(data-aos="zoom-in-right") Las tácticas pueden clasificarse según las variables del <em>marketing</em> <em>mix</em>, lo que permite organizar su implementación.
 
       .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
         h5 Tabla 3.
@@ -77,7 +77,7 @@
             tr
               td.text-start Plaza.
               td.text-start Distribución y canales.
-              td.text-start Venta online, domicilios.
+              td.text-start Venta <em>online</em>, domicilios.
             tr
               td.text-start Promoción.
               td.text-start Comunicación y publicidad.
@@ -91,7 +91,7 @@
         figure
           img(src='@/assets/curso/tema3/img_6.png', class="img-fluid")
 
-    p.mb-4(data-aos="zoom-in-right") Clasificar las tácticas permite estructurar su ejecución y garantizar coherencia con el <em>marketing</em> mix.
+    p.mb-4(data-aos="zoom-in-right") Clasificar las tácticas permite estructurar su ejecución y garantizar coherencia con el <em>marketing</em> <em>mix</em>.
 
     .bg_img_12.mb-0
 
@@ -136,7 +136,7 @@
                 span #[strong Canal:] Instagram y TikTok.
               li.d-flex.align-items-start.mb-3
                 i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF707E; font-size: 15px; line-height: 1.5;").mb-0
-                span #[strong Responsable:] community manager.
+                span #[strong Responsable:] <em>community manager</em>.
 
     .tarjeta.tarjeta--fondo-img-2.p-4.rounded-4.mb-3(data-aos="zoom-in-right")
       .row.justify-content-center.align-items-center.mb-0
@@ -144,7 +144,7 @@
           figure
             img(src='@/assets/curso/tema3/img_9.svg', class="img-fluid") 
         .col-12.col-lg-11.mb-0(data-aos="zoom-in-right")
-          p.mb-0 Como ejemplo aplicado, una empresa del sector moda puede implementar diversas tácticas orientadas a fortalecer su posicionamiento y conexión con el público objetivo. Entre ellas, se destacan ejecutar campañas con influencers, aplicar descuentos por temporada y desarrollar publicidad segmentada en plataformas digitales, con el fin de incrementar el alcance y la interacción con el público objetivo.
+          p.mb-0 Como ejemplo aplicado, una empresa del sector moda puede implementar diversas tácticas orientadas a fortalecer su posicionamiento y conexión con el público objetivo. Entre ellas, se destacan ejecutar campañas con <em>influencers</em>, aplicar descuentos por temporada y desarrollar publicidad segmentada en plataformas digitales, con el fin de incrementar el alcance y la interacción con el público objetivo.
 
     p.mb-5(data-aos="zoom-in-right") La construcción estructurada de tácticas permite ejecutar la estrategia de manera organizada y medible.
     

@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema5/img_1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 El cronograma es una herramienta de planificación que establece la programación temporal de las actividades del plan de marketing. En el contexto empresarial, el cronograma se convierte en una herramienta de gestión clave, ya que permite coordinar equipos, asignar responsabilidades y monitorear el avance de las actividades en función de los tiempos establecidos.
+        p.mb-0 El cronograma es una herramienta de planificación que establece la programación temporal de las actividades del plan de <em>marketing</em>. En el contexto empresarial, el cronograma se convierte en una herramienta de gestión clave, ya que permite coordinar equipos, asignar responsabilidades y monitorear el avance de las actividades en función de los tiempos establecidos.
 
     Separador
 
@@ -24,7 +24,7 @@
 
       .row.justify-content-center.align-items-center.mb-5
         .col-12.col-lg-7.order-2.order-lg-1
-          p.mb-3(data-aos="zoom-in-right") El cronograma de marketing es un instrumento que organiza las actividades dentro de un periodo determinado, estableciendo fechas de inicio, duración y responsables, con el propósito de garantizar el cumplimiento del plan. Desde un enfoque aplicado, permite responder a la pregunta: ¿cuándo se va a ejecutar cada acción? 
+          p.mb-3(data-aos="zoom-in-right") El cronograma de <em>marketing</em> es un instrumento que organiza las actividades dentro de un periodo determinado, estableciendo fechas de inicio, duración y responsables, con el propósito de garantizar el cumplimiento del plan. Desde un enfoque aplicado, permite responder a la pregunta: ¿cuándo se va a ejecutar cada acción? 
           .tarjeta.tarjeta--fondo-img-2.p-4.rounded-4.mb-3(data-aos="zoom-in-right")
             .row.justify-content-center.align-items-center.mb-0
               .col-lg-2.d-lg-block.d-none(data-aos="zoom-in-right")
@@ -83,7 +83,7 @@
             figure
               img(src='@/assets/curso/tema5/img_11.svg', class="img-fluid") 
 
-    p.mb-3(data-aos="zoom-in-right") La elección del tipo de cronograma facilita la visualización y control del plan de marketing.
+    p.mb-3(data-aos="zoom-in-right") La elección del tipo de cronograma facilita la visualización y control del plan de <em>marketing</em>.
 
     .bg_img_18.mb-0
 
@@ -159,7 +159,7 @@
         .col-12.col-lg-11.mb-0(data-aos="zoom-in-right")
           p.mb-0 Un ejemplo aplicado es el de una empresa de servicios que puede programar campañas digitales de forma mensual, ajustando los tiempos según el comportamiento del mercado y la respuesta de los clientes.
 
-    p.mb-5(data-aos="zoom-in-right") En este sentido, un cronograma bien estructurado permite ejecutar el plan de marketing de manera organizada y controlar su avance a lo largo del tiempo, facilitando la toma de decisiones y la optimización de resultados. 
+    p.mb-5(data-aos="zoom-in-right") En este sentido, un cronograma bien estructurado permite ejecutar el plan de <em>marketing</em> de manera organizada y controlar su avance a lo largo del tiempo, facilitando la toma de decisiones y la optimización de resultados. 
 
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-12.col-lg-10.mb-5
@@ -169,7 +169,7 @@
               figure.m-2
                 img(src="@/assets/curso/tema1/img_27.svg" )
             .col-12.col-lg-10.p-4 
-              p.fw-bold.text-white.mb-3 Para fortalecer la comprensión sobre la programación en marketing, se invita a revisar el siguiente recurso audiovisual: 
+              p.fw-bold.text-white.mb-3 Para fortalecer la comprensión sobre la programación en <em>marketing</em>, se invita a revisar el siguiente recurso audiovisual: 
               a.boton.color-acento-botones.d-inline-flex.mb-2(href="https://www.youtube.com/watch?v=bVsq4UNB3Fo" target="_blank")
                 span Programación de actividades en el plan de mercadeo: diagrama de Gantt
                 i.fas.fa-play-circle.ms-2

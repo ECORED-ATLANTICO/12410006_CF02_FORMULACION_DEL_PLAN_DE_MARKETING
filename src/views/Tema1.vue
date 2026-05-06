@@ -43,7 +43,7 @@
             img(src='@/assets/curso/tema1/img_6.png', class="img-fluid") 
         .col-12.col-lg-8
           .tarjeta.color-primario-5.p-4.rounded-4.mb-3(data-aos="zoom-in-right")
-            p.mb-3 Como ejemplo aplicado, una empresa de retail puede establecer como objetivo “aumentar las ventas en un 15 % en el canal digital durante los próximos 6 meses”. Este objetivo es:
+            p.mb-3 Como ejemplo aplicado, una empresa de <em>retail</em> puede establecer como objetivo “aumentar las ventas en un 15 % en el canal digital durante los próximos 6 meses”. Este objetivo es:
             ul.list-unstyled.cita-decorada__texto.mb-3
               li.d-flex.align-items-start.mb-0
                 i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF707E; font-size: 15px; line-height: 1.5;").mb-0
@@ -100,7 +100,7 @@
         .tarjeta.color-primario-5.p-5.rounded-4.mb-3(data-aos="zoom-in-right")
           .row.justify-content-center.align-items-center.mb-0
             .col-12.col-lg-12.mb-0(data-aos="zoom-in-right")
-              p.mb-3 Como ejemplo, una empresa como Éxito define objetivos específicos por canal (tiendas físicas vs. e-commerce), garantizando medición diferenciada.
+              p.mb-3 Como ejemplo, una empresa como Éxito define objetivos específicos por canal (tiendas físicas vs. <em>e-commerce</em>), garantizando medición diferenciada.
             .col-lg-6.d-lg-block.d-none(data-aos="zoom-in-right")
               figure
                 img(src='@/assets/curso/tema1/img_14.svg', class="img-fluid")
@@ -144,7 +144,7 @@
             tr
               td.text-start Corto plazo.
               td.text-start Menor a un año.
-              td.text-start Incrementar leads en 3 meses.
+              td.text-start Incrementar <em>leads</em> en 3 meses.
             tr
               td.text-start Mediano plazo.
               td.text-start Entre 1 y 3 años.
@@ -160,7 +160,7 @@
           figure
             img(src='@/assets/curso/tema1/img_17.svg', class="img-fluid") 
         .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
-          p.mb-3 Como ejemplo aplicado, un startup digital puede plantear:
+          p.mb-3 Como ejemplo aplicado, un <em>startup</em> digital puede plantear:
           ul.list-unstyled.cita-decorada__texto.mb-3
             li.d-flex.align-items-start.mb-0
               i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF707E; font-size: 15px; line-height: 1.5;").mb-0
@@ -225,7 +225,7 @@
           .row.justify-content-center.align-items-center(titulo="Fase 4")
             .col-12.col-lg-6.order-2.order-lg-1.mb-0
               h5.mb-4 Fase 4
-              p.mb-4 Formulación bajo criterio SMART: metodología utilizada para la formulación de objetivos que garantiza su claridad y viabilidad, asegurando que estos sean específicos (specific), medibles (measurable), alcanzables (achievable), relevantes (relevant) y definidos en un tiempo determinado (time bound). Su aplicación permite estructurar objetivos concretos que facilitan su seguimiento, control y evaluación dentro del plan de <em>marketing</em>.
+              p.mb-4 Formulación bajo criterio SMART: metodología utilizada para la formulación de objetivos que garantiza su claridad y viabilidad, asegurando que estos sean específicos (<em>specific</em>), medibles (<em>measurable</em>), alcanzables (<em>achievable</em>), relevantes (<em>relevant</em>) y definidos en un tiempo determinado (<em>time bound</em>). Su aplicación permite estructurar objetivos concretos que facilitan su seguimiento, control y evaluación dentro del plan de <em>marketing</em>.
             .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
               figure
                 img(src='@/assets/curso/tema1/img_24.png', class="img-fluid")

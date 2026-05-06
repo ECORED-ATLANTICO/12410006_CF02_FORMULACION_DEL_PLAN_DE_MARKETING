@@ -164,7 +164,7 @@
             td.text-start $917.700
             td.text-start $1.425.000
           tr
-            td.text-start Plataformas app e-commerce.
+            td.text-start Plataformas <em>app e-commerce</em>.
             td.text-start 80 %
             td.text-start $10.047.500
             td.text-start $7.341.600
