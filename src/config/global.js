@@ -337,7 +337,7 @@ export default {
         'Métricas que permiten medir el desempeño de las acciones de marketing.',
     },
     {
-      termino: '<em>KPI</em>',
+      termino: 'KPI',
       significado:
         'Indicadores clave que evalúan el logro de objetivos específicos.',
     },

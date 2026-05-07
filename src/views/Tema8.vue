@@ -60,7 +60,7 @@
                 p.mb-0 Se realiza de forma permanente, lo que implica un seguimiento continuo de las acciones implementadas. En la práctica, se traduce en la realización de evaluaciones periódicas que permiten monitorear el desempeño y detectar oportunidades de mejora.
             .row.justify-content-center.align-items-center(numero="2" titulo="Basada en datos")
               .col-12.col-lg-12.mb-md-0
-                p.mb-0 Se fundamenta en <em>KPI</em>, lo que garantiza que las decisiones se apoyen en información objetiva y medible. Su aplicación se refleja en el análisis de resultados, facilitando una comprensión clara del rendimiento de las estrategias.
+                p.mb-0 Se fundamenta en KPI, lo que garantiza que las decisiones se apoyen en información objetiva y medible. Su aplicación se refleja en el análisis de resultados, facilitando una comprensión clara del rendimiento de las estrategias.
             .row.justify-content-center.align-items-center(numero="3" titulo="Adaptativa")
               .col-12.col-lg-12.mb-md-0
                 p.mb-0 Responde al entorno, lo que le permite ajustarse a cambios del mercado, del consumidor o de la competencia. En la práctica, se materializa en ajustes estratégicos que buscan mantener la relevancia y competitividad.
@@ -147,7 +147,7 @@
           figure
             img(src='@/assets/curso/tema8/img_14.svg', class="img-fluid") 
         .col-12.col-lg-11.mb-0(data-aos="zoom-in-right")
-          p.mb-0 Como ejemplo aplicado: una empresa de comercio electrónico identifica una baja tasa de conversión en su sitio web; a partir del análisis de <em>KPI</em>, optimiza la experiencia del usuario, ajusta sus campañas digitales y mejora la segmentación, logrando incrementar sus ventas.
+          p.mb-0 Como ejemplo aplicado: una empresa de comercio electrónico identifica una baja tasa de conversión en su sitio web; a partir del análisis de KPI, optimiza la experiencia del usuario, ajusta sus campañas digitales y mejora la segmentación, logrando incrementar sus ventas.
 
     p.mb-4(data-aos="zoom-in-right") Este proceso se fundamenta en el ciclo PHVA (planear, hacer, verificar y actuar), el cual permite establecer un sistema dinámico de aprendizaje organizacional orientado a la mejora continua.
 
