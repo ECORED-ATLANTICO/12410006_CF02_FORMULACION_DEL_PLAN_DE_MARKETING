@@ -10,7 +10,7 @@
     .bg_img_25.mb-0
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-10.col-lg-5.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-10.col-md-8.col-lg-5.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema7/img_2.png', class="img-fluid") 
         .col-12.col-lg-7
@@ -43,7 +43,7 @@
                 img(src='@/assets/curso/tema7/img_4.svg', class="img-fluid") 
             .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
               p.mb-0 Como ejemplo aplicado, una empresa puede auditar los resultados de sus campañas, el cumplimiento de los KPI establecidos y el uso del presupuesto asignado. Este proceso de auditoría permite evaluar el plan de <em>marketing</em> de manera integral, ya que facilita la identificación de fortalezas en la ejecución y la detección de debilidades que requieren ajustes para mejorar el desempeño.
-      .col-10.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-10.col-md-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema7/img_5.png', class="img-fluid")
 
@@ -82,7 +82,7 @@
     .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
       h5 Tabla 7.
       |  Proceso de auditoría de <em>marketing</em>
-    .tabla-a.mb-5(data-aos="flip-left")
+    .tabla-a.mb-3(data-aos="flip-left")
       table
         caption 
           p Nota. SENA, (2026).
@@ -114,7 +114,7 @@
             td.text-start Optimización del plan.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-10.col-lg-5.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-10.col-md-8.col-lg-5.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema7/img_8.png', class="img-fluid") 
       .col-12.col-lg-7
@@ -133,10 +133,10 @@
       .col-12.col-lg-10.mb-3
         .tarjeta--bg-img.color-acento-contenido.rounded-3.overflow-hidden.p-2
           .row.align-items-center.mb-0
-            .col-6.col-lg-2.mx-auto.text-center.p-4
+            .col-6.col-md-4.col-lg-2.mx-auto.text-center.p-4
               figure.m-2
                 img(src="@/assets/curso/tema1/img_27.svg" )
-            .col-12.col-lg-10.p-4 
+            .col-12.col-md-8.col-lg-10.p-4 
               p.fw-bold.text-white.mb-3 Para fortalecer la comprensión sobre la auditoría en <em>marketing</em>, se invita a consultar el siguiente recurso audiovisual, el cual explica de manera práctica su importancia, aplicación y utilidad en la evaluación de estrategias:
               a.boton.color-acento-botones.d-inline-flex.mb-2(href="https://www.youtube.com/watch?v=1g181Z2e_yo" target="_blank")
                 span La auditoría de <em>marketing</em>: claves esenciales para evaluar una estrategia comercial
@@ -152,7 +152,7 @@
             .col-12.col-lg-6.mb-lg-0
               h2.mb-5.text-white Pódcast
               TarjetaAudio.color-acento-botones.mb-0.p-4(
-                texto="<I>Herramientas de análisis estratégico</I>"
+                texto="<I>Auditoria de marketing</I>"
                 :audio="require('@/assets/curso/tema7/img_10.svg')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = True")
                 .indicador--click(v-if="mostrarIndicadorTarjetaAudio")

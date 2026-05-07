@@ -56,7 +56,7 @@
       .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
         h5 Tabla 3.
         |  Clases de tácticas de <em>marketing</em>
-      .tabla-a.mb-5(data-aos="flip-left")
+      .tabla-a.mb-3(data-aos="flip-left")
         table
           caption 
             p Nota. SENA, (2026).
@@ -84,10 +84,10 @@
               td.text-start Redes sociales, campañas.
 
     .row.justify-content-center.align-items-stretch.mb-5
-      .col-12.col-lg-5.d-flex.order-2.order-lg-1
+      .col-12.col-lg-10.col-xl-5.d-flex.order-2.order-xl-1.mb-3
         .tarjeta.color-primario-5.p-4.rounded-4.mb-0.h-100.d-flex.align-items-center(data-aos="zoom-in-right")
           p.mb-0 Como referente empresarial, la empresa Tiendas Ara implementa una combinación de tácticas alineadas con su propuesta de valor enfocada en la economía y la cercanía. En cuanto al precio, adopta una estrategia de bajo costo que le permite competir de manera eficiente; respecto al producto, prioriza el desarrollo de marcas propias para optimizar márgenes y ofrecer alternativas accesibles; en la plaza, se enfoca en ubicar tiendas de proximidad que faciliten el acceso del consumidor; y, en promoción, mantiene una inversión publicitaria mínima, apoyándose principalmente en su posicionamiento y en la experiencia directa del cliente.
-      .col-12.col-lg-7.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-12.col-lg-10.col-xl-7.order-1.order-xl-2.mb-3.mb-lg-3(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema3/img_6.png', class="img-fluid")
 
@@ -152,10 +152,10 @@
       .col-12.col-lg-10.mb-5
         .tarjeta--bg-img.color-acento-contenido.rounded-3.overflow-hidden.p-2
           .row.align-items-center.mb-0
-            .col-6.col-lg-2.mx-auto.text-center.p-4
+            .col-6.col-md-4.col-lg-2.mx-auto.text-center.p-4
               figure.m-2
                 img(src="@/assets/curso/tema1/img_27.svg" )
-            .col-12.col-lg-10.p-4 
+            .col-12.col-md-8.col-lg-10.p-4 
               p.fw-bold.text-white.mb-3 Para facilitar la comprensión sobre la creación de tácticas de <em>marketing</em>, se invita a visualizar el siguiente recurso audiovisual, el cual presenta de manera práctica y didáctica los elementos clave para su diseño e implementación en contextos reales:
               a.boton.color-acento-botones.d-inline-flex.mb-2(href="https://www.youtube.com/watch?v=qqwvCHoNO18" target="_blank")
                 span Implementa correctamente estrategias y tácticas 

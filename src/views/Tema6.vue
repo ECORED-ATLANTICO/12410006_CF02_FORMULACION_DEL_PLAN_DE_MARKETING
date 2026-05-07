@@ -19,7 +19,7 @@
               .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
                 p.mb-0 Los índices de gestión permiten evaluar el comportamiento del plan de <em>marketing</em> a partir de resultados medibles, facilitando el seguimiento de las acciones ejecutadas y su impacto en los objetivos organizacionales. Su uso es fundamental para transformar la información en decisiones estratégicas.
           p.mb-0(data-aos="zoom-in-right") La correcta definición de KPI evita la dispersión analítica y orienta la gestión hacia resultados concretos, medibles y alineados con la planeación organizacional.
-        .col-10.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-10.col-md-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema6/img_3.png', class="img-fluid")
 
@@ -30,7 +30,7 @@
       .mb-0 
       
       .row.justify-content-center.align-items-center.mb-5
-        .col-10.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-10.col-md-8.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema6/img_4.png', class="img-fluid") 
         .col-12.col-lg-8
@@ -97,8 +97,8 @@
             h5 Figura 1.
             |    Características del KPI
           figure(data-aos="flip-left")
-            img(src='@/assets/curso/tema6/img_11.svg', class="img-fluid d-none d-lg-block").mb-5
-            img(src='@/assets/curso/tema6/img_12.svg', class="img-fluid d-block d-lg-none").mb-5
+            img(src='@/assets/curso/tema6/img_11.svg', class="img-fluid d-none d-lg-block", alt="La figura 1 describe las características del KPI. Estar alineado con objetivos organizacionales. Ser medible de forma clara y periódica. Permitir comparaciones en el tiempo. Servir como base para la toma de decisiones.").mb-3
+            img(src='@/assets/curso/tema6/img_12.svg', class="img-fluid d-block d-lg-none", alt="La figura 1 describe las características del KPI. Estar alineado con objetivos organizacionales. Ser medible de forma clara y periódica. Permitir comparaciones en el tiempo. Servir como base para la toma de decisiones.").mb-3
             figcaption Nota. SENA, (2026).
 
     Separador
@@ -112,7 +112,7 @@
     .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
       h5 Tabla 6.
       |  Tipos de KPI en <em>marketing</em> 
-    .tabla-a.mb-5(data-aos="flip-left")
+    .tabla-a.mb-3(data-aos="flip-left")
       table
         caption 
           p Nota. SENA, (2026).
@@ -127,13 +127,13 @@
             td.text-start Evalúan el nivel de visibilidad y exposición de la marca.
             td.text-start Crecimiento porcentual mensual.
           tr
-            td.text-start KPI de engagement.
+            td.text-start KPI de <em>engagement</em>.
             td.text-start Miden el grado de interacción y conexión entre la marca y su comunidad.
-            td.text-start Tasa de interacción o engagement rate. 
+            td.text-start Tasa de interacción o <em>engagement</em> <em>rate</em>. 
           tr
             td.text-start KPI de conversión.
             td.text-start Analizan la capacidad de la estrategia para generar acciones concretas que aporten valor al negocio.
-            td.text-start Tasa de conversión, generación de leads.
+            td.text-start Tasa de conversión, generación de <em>leads</em>.
           tr
             td.text-start KPI financieros.
             td.text-start Relacionan resultados con rentabilidad e inversión realizada.
@@ -156,8 +156,8 @@
                   img(src='@/assets/curso/tema6/img_14.svg', class="img-fluid") 
               .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
                 p.mb-0 En cuanto a la aplicabilidad de los KPI radica en su capacidad para simplificar la complejidad del entorno digital y enfocar la atención en lo verdaderamente estratégico. En lugar de analizar múltiples métricas dispersas, los KPI permiten concentrarse en los indicadores que impactan directamente el desempeño organizacional.
-          p.mb-0(data-aos="zoom-in-right") Por ejemplo, la empresa Airbnb puede establecer como KPI principal la tasa de conversión de reservas provenientes de campañas digitales, ya que su objetivo estratégico es aumentar ocupación y ventas. Por su parte, Adidas podría priorizar como KPI el nivel de engagement en lanzamientos de producto, si su meta está asociada al posicionamiento y fortalecimiento de marca en redes sociales.
-        .col-10.col-lg-5.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+          p.mb-0(data-aos="zoom-in-right") Por ejemplo, la empresa Airbnb puede establecer como KPI principal la tasa de conversión de reservas provenientes de campañas digitales, ya que su objetivo estratégico es aumentar ocupación y ventas. Por su parte, Adidas podría priorizar como KPI el nivel de <em>engagement</em> en lanzamientos de producto, si su meta está asociada al posicionamiento y fortalecimiento de marca en redes sociales.
+        .col-10.col-md-8.col-lg-5.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema6/img_15.png', class="img-fluid")
 
@@ -196,7 +196,7 @@
     .bg_img_24.mb-0
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-10.col-lg-5.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-10.col-md-8.col-lg-5.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema6/img_19.png', class="img-fluid") 
         .col-12.col-lg-7
@@ -247,10 +247,10 @@
       .col-12.col-lg-10.mb-5
         .tarjeta--bg-img.color-acento-contenido.rounded-3.overflow-hidden.p-2
           .row.align-items-center.mb-0
-            .col-6.col-lg-2.mx-auto.text-center.p-4
+            .col-6.col-md-4.col-lg-2.mx-auto.text-center.p-4
               figure.m-2
                 img(src="@/assets/curso/tema1/img_27.svg" )
-            .col-12.col-lg-10.p-4 
+            .col-12.col-md-8.col-lg-10.p-4 
               p.fw-bold.text-white.mb-3 Se invita a consultar los siguientes recursos prácticos para comprender qué es un KPI, cómo estructurarlo y conocer ejemplos aplicados a la medición en <em>marketing</em> .
               a.boton.color-acento-botones.d-inline-flex.mb-3(href="https://www.youtube.com/watch?v=L4l5ocVM4SY" target="_blank")
                 span KPIs en redes sociales: ¿qué son?

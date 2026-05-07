@@ -261,7 +261,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CFA2_12410006_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -287,7 +287,7 @@ export default {
     {
       termino: 'Auditoría de <em>marketing</em>',
       significado:
-        'Evaluación sistemática del plan de marketing para verificar su eficacia y coherencia.',
+        'Evaluación sistemática del plan de <em>marketing</em> para verificar su eficacia y coherencia.',
     },
     {
       termino: 'Control',

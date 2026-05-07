@@ -20,7 +20,7 @@
                   img(src='@/assets/curso/introduccion/img_2.svg', class="img-fluid") 
               .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
                 p.mb-0 Su importancia radica en que permite materializar el direccionamiento estratégico en acciones concretas, medibles y evaluables, integrando herramientas para la asignación de recursos, la programación de actividades y la definición de indicadores de gestión. De esta manera, se facilita el seguimiento del plan de <em>marketing</em> y la toma de decisiones basada en resultados en contextos empresariales dinámicos.
-        .col-10.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/introduccion/img_4.png', class="img-fluid")
     

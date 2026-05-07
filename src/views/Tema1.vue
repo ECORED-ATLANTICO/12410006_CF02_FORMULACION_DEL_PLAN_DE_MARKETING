@@ -33,12 +33,12 @@
               .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
                 p.mb-0 Los objetivos de <em>marketing</em> son enunciados claros, medibles y alcanzables que definen los resultados esperados en un periodo determinado, alineados con la estrategia organizacional y las condiciones del mercado.
           p.mb-0(data-aos="zoom-in-right") Desde una perspectiva técnica, los objetivos deben responder a variables como crecimiento, posicionamiento, participación de mercado o rentabilidad, permitiendo evaluar el impacto de las acciones ejecutadas.
-        .col-10.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-10.col-md-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema1/img_5.png', class="img-fluid")
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-10.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-10.col-md-8.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema1/img_6.png', class="img-fluid") 
         .col-12.col-lg-8
@@ -68,10 +68,10 @@
       p.mb-5(data-aos="zoom-in-right") Los objetivos de <em>marketing</em> deben cumplir condiciones que garanticen su efectividad y aplicabilidad dentro del plan. A continuación, se da a conocer cada una de las características, su descripción y aplicabilidad práctica.
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-10.col-lg-4.mb-3.mb-lg-0(data-aos="flip-left")
+        .col-10.col-md-8.col-lg-4.col-xl-4.mb-3.mb-lg-0(data-aos="flip-left")
           figure(data-aos="zoom-out-up")
             img(src='@/assets/curso/tema1/img_8.png', class="img-fluid")
-        .col-12.col-lg-8
+        .col-12.col-lg-12.col-xl-8
           .custom-slider.p-3.p-sm-3(data-aos="zoom-in-right")
             SlyderF(columnas="col-12 col-sm-6 col-md-6 col-lg-6").p-2.rounded-3
               .tarjeta--color-white.h-100
@@ -123,7 +123,7 @@
       .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
         h5 Tabla 1.
         |  Clases de objetivos de <em>marketing</em>
-      .tabla-a.mb-5(data-aos="flip-left")
+      .tabla-a.mb-3(data-aos="flip-left")
         table
           caption 
             p Nota. SENA, (2026).
@@ -180,7 +180,7 @@
     .mb-0 
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-10.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-12.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema1/img_18.png', class="img-fluid") 
       .col-12.col-lg-8
@@ -236,11 +236,11 @@
             .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
               figure
                 img(src='@/assets/curso/tema1/img_25.png', class="img-fluid")
-
       br
     br
     br
-
+    br
+    
     .row.justify-content-center.align-items-stretch.mb-5
       .col-12.col-lg-8.mb-3.mb-lg-0
         .tarjeta.color-secundario-10.p-4.rounded-4.mb-5.h-100(data-aos="zoom-in-right")
@@ -277,10 +277,10 @@
       .col-12.col-lg-10.mb-5
         .tarjeta--bg-img.color-acento-contenido.rounded-3.overflow-hidden.p-2
           .row.align-items-center.mb-0
-            .col-6.col-lg-2.mx-auto.text-center.p-4
+            .col-6.col-md-4.col-lg-2.mx-auto.text-center.p-4
               figure.m-2
                 img(src="@/assets/curso/tema1/img_27.svg" )
-            .col-12.col-lg-10.p-4
+            .col-12.col-md-8.col-lg-10.p-4
               p.fw-bold.text-white.mb-3 Para profundizar en la formulación de objetivos SMART en <em>marketing</em>, te invitamos a consultar el siguiente video explicativo:
               a.boton.color-acento-botones.d-inline-flex.mb-2(href="https://www.youtube.com/watch?v=gY607xwUgpw&t=9s" target="_blank")
                 span Planeamiento de objetivos bajo el método SMART
@@ -290,10 +290,10 @@
       .col-12.col-lg-10.mb-5
         .tarjeta--bg-img.color-primario-70.rounded-3.overflow-hidden.p-2
           .row.align-items-center.mb-0
-            .col-6.col-lg-2.mx-auto.text-center.p-4
+            .col-6.col-md-4.col-lg-2.mx-auto.text-center.p-4
               figure.m-2
                 img(src="@/assets/curso/tema1/img_28.svg" )
-            .col-12.col-lg-10.p-4
+            .col-12.col-md-8.col-lg-10.p-4
               p.fw-bold.text-white.mb-3 Para ampliar la información sobre la formulación de objetivos en <em>marketing</em>, se invita a consultar el siguiente recurso (Páginas 17-19):
               a.boton.color-acento-botones.d-inline-flex.mb-2(href="https://gc.scalahed.com/recursos/files/r161r/w24257w/LibroPlandeMarketing-1-92.pdf" target="_blank")
                 span PLAN DE <em>MARKETING</em>: diseño, implementación y control

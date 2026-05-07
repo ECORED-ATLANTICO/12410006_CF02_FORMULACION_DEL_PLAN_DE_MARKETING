@@ -54,10 +54,10 @@
 
                 
       .row.justify-content-center.align-items-center.mb-5
-        .col-12.col-lg-9.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-12.col-lg-8.col-xl-9.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema2/img_3.png', class="img-fluid")
-        .col-12.col-lg-3
+        .col-12.col-lg-4.col-xl-3
           .tarjeta.color-primario-5.p-5.rounded-4.mb-3(data-aos="zoom-in-right")
             .row.justify-content-center.align-items-center.mb-0
               .col-12.col-lg-12.mb-0(data-aos="zoom-in-right")
@@ -79,7 +79,7 @@
       .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
         h5 Tabla 2.
         |  Características de la estrategia de <em>marketing</em>
-      .tabla-a.mb-5(data-aos="flip-left")
+      .tabla-a.mb-3(data-aos="flip-left")
         table
           caption 
             p Nota. SENA, (2026).
@@ -154,7 +154,7 @@
                 .tarjeta--10
                 h5.text-center.mb-3 Estrategia digital:
                 p.mb-3 Uso de canales digitales. Ejemplo: redes sociales, <em>e-commerce</em>.
-        .col-10.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="flip-left")
+        .col-10.col-md-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="flip-left")
           figure(data-aos="zoom-out-up")
             img(src='@/assets/curso/tema2/img_13.png', class="img-fluid")
 
@@ -235,10 +235,10 @@
       .col-12.col-lg-10.mb-5
         .tarjeta--bg-img.color-acento-contenido.rounded-3.overflow-hidden.p-2
           .row.align-items-center.mb-0
-            .col-6.col-lg-2.mx-auto.text-center.p-4
+            .col-6.col-md-4.col-lg-2.mx-auto.text-center.p-4
               figure.m-2
                 img(src="@/assets/curso/tema1/img_27.svg" )
-            .col-12.col-lg-10.p-4
+            .col-12.col-md-8.col-lg-10.p-4
               p.fw-bold.text-white.mb-3 Para profundizar más en el tema, se sugiere visualizar el siguiente video, el cual permite comprender de manera práctica la aplicación de estas estrategias:
               a.boton.color-acento-botones.d-inline-flex.mb-2(href="https://www.youtube.com/watch?v=fOGstfMY0So" target="_blank")
                 span 35 Tipos de Estrategias de <em>marketing</em> que Funcionan

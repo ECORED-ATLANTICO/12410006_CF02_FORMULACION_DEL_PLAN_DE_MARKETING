@@ -22,11 +22,11 @@
       .mb-0 
 
       .tarjeta.color-terciario-5.p-3.rounded-4.mb-5(data-aos="zoom-in-right")
-        p.mb-0 La mejora continua en marketing es un proceso orientado a optimizar de manera permanente las acciones del plan, a partir del análisis de resultados, la identificación de oportunidades y la implementación de ajustes. Su aplicación permite incrementar la eficiencia, adaptarse a cambios del entorno y fortalecer la competitividad organizacional. Es un proceso sistemático de evaluación, ajuste y optimización de las acciones comerciales, basado en el análisis de resultados y en la retroalimentación del entorno.
+        p.mb-0 La mejora continua en <em>marketing</em> es un proceso orientado a optimizar de manera permanente las acciones del plan, a partir del análisis de resultados, la identificación de oportunidades y la implementación de ajustes. Su aplicación permite incrementar la eficiencia, adaptarse a cambios del entorno y fortalecer la competitividad organizacional. Es un proceso sistemático de evaluación, ajuste y optimización de las acciones comerciales, basado en el análisis de resultados y en la retroalimentación del entorno.
 
       .row.justify-content-center.align-items-center.mb-5
         .col-12.col-lg-8.order-2.order-lg-1 
-          p.mb-3(data-aos="zoom-in-right") Desde un enfoque aplicado, se busca responder a la pregunta: ¿cómo mejorar lo que ya se está haciendo? Esto implica analizar de manera sistemática los resultados obtenidos, identificar oportunidades de optimización y aplicar ajustes que permitan incrementar la efectividad de las acciones de marketing.
+          p.mb-3(data-aos="zoom-in-right") Desde un enfoque aplicado, se busca responder a la pregunta: ¿cómo mejorar lo que ya se está haciendo? Esto implica analizar de manera sistemática los resultados obtenidos, identificar oportunidades de optimización y aplicar ajustes que permitan incrementar la efectividad de las acciones de <em>marketing</em>.
           .tarjeta.tarjeta--fondo-img-2.p-4.rounded-4.mb-3(data-aos="zoom-in-right")
             .row.justify-content-center.align-items-center.mb-0
               .col-lg-2.d-lg-block.d-none(data-aos="zoom-in-right")
@@ -34,8 +34,8 @@
                   img(src='@/assets/curso/tema8/img_3.svg', class="img-fluid") 
               .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
                 p.mb-0 Ejemplo aplicado: una empresa digital detecta una baja conversión en su página web. Para abordar esta situación, analiza el comportamiento del usuario, ajusta el diseño y el contenido, y optimiza la experiencia de navegación.
-          p.mb-0(data-aos="zoom-in-right") De este modo, la mejora continua permite evolucionar el plan de marketing a partir del aprendizaje generado por la experiencia y los resultados obtenidos, favoreciendo decisiones más acertadas y un mejor desempeño.
-        .col-10.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+          p.mb-0(data-aos="zoom-in-right") De este modo, la mejora continua permite evolucionar el plan de <em>marketing</em> a partir del aprendizaje generado por la experiencia y los resultados obtenidos, favoreciendo decisiones más acertadas y un mejor desempeño.
+        .col-10.col-md-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema8/img_4.png', class="img-fluid")
 
@@ -90,7 +90,7 @@
       .mb-0 
 
       .tarjeta.color-terciario-5.p-3.rounded-4.mb-4(data-aos="zoom-in-right")
-        p.mb-0 La mejora continua en marketing se desarrolla mediante un proceso estructurado que permite optimizar de manera permanente el desempeño del plan, garantizando coherencia entre los resultados obtenidos y las decisiones estratégicas.
+        p.mb-0 La mejora continua en <em>marketing</em> se desarrolla mediante un proceso estructurado que permite optimizar de manera permanente el desempeño del plan, garantizando coherencia entre los resultados obtenidos y las decisiones estratégicas.
 
       p.mb-5(data-aos="zoom-in-right") Para su implementación, se deben considerar las siguientes fases:
 
@@ -152,7 +152,7 @@
     p.mb-4(data-aos="zoom-in-right") Este proceso se fundamenta en el ciclo PHVA (planear, hacer, verificar y actuar), el cual permite establecer un sistema dinámico de aprendizaje organizacional orientado a la mejora continua.
 
     .tarjeta.color-terciario-5.p-3.rounded-4.mb-4(data-aos="zoom-in-right")
-      p.mb-0 El proceso de mejora continua permite transformar los resultados en oportunidades de optimización, asegurando la adaptación permanente del plan de marketing y fortaleciendo la toma de decisiones basada en datos.
+      p.mb-0 El proceso de mejora continua permite transformar los resultados en oportunidades de optimización, asegurando la adaptación permanente del plan de <em>marketing</em> y fortaleciendo la toma de decisiones basada en datos.
 
     .row.justify-content-center.align-items-center.mt-5.mb-5
       .col-12.col-lg-8
@@ -164,7 +164,7 @@
             .col-12.col-lg-6.mb-lg-0
               h2.mb-5.text-white Pódcast
               TarjetaAudio.color-acento-botones.mb-0.p-4(
-                texto="<I>PHVA en el marketing</I>"
+                texto="PHVA en el marketing"
                 :audio="require('@/assets/curso/tema7/img_10.svg')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = True")
                 .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
