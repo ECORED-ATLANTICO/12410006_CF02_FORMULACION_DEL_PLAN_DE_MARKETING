@@ -137,7 +137,7 @@ export default {
         },
         {
           id: 6,
-          texto: 'Los KPI permiten seguimiento.',
+          texto: 'Los <em>KPI</em> permiten seguimiento.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [

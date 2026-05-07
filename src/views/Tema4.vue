@@ -145,7 +145,7 @@
             td.text-start $ 524.400
             td.text-start $ 814.300
           tr
-            td.text-start Chat de atención al cliente.
+            td.text-start <em>Chat</em> de atención al cliente.
             td.text-start 0 %
             td.text-start $ 0
             td.text-start $ 0

@@ -42,7 +42,7 @@
               figure
                 img(src='@/assets/curso/tema7/img_4.svg', class="img-fluid") 
             .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
-              p.mb-0 Como ejemplo aplicado, una empresa puede auditar los resultados de sus campañas, el cumplimiento de los KPI establecidos y el uso del presupuesto asignado. Este proceso de auditoría permite evaluar el plan de <em>marketing</em> de manera integral, ya que facilita la identificación de fortalezas en la ejecución y la detección de debilidades que requieren ajustes para mejorar el desempeño.
+              p.mb-0 Como ejemplo aplicado, una empresa puede auditar los resultados de sus campañas, el cumplimiento de los <em>KPI</em> establecidos y el uso del presupuesto asignado. Este proceso de auditoría permite evaluar el plan de <em>marketing</em> de manera integral, ya que facilita la identificación de fortalezas en la ejecución y la detección de debilidades que requieren ajustes para mejorar el desempeño.
       .col-10.col-md-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema7/img_5.png', class="img-fluid")
@@ -65,7 +65,7 @@
           LineaTiempoD.color-secundario-20
             .row.justify-content-center.align-items-center(numero="1" titulo="Recolección de información")
               .col-12.col-lg-12.mb-md-0
-                p.mb-0 Análisis de datos internos y externos (ventas, KPI, mercado).
+                p.mb-0 Análisis de datos internos y externos (ventas, <em>KPI</em>, mercado).
             .row.justify-content-center.align-items-center(numero="2" titulo="Diagnóstico")
               .col-12.col-lg-12.mb-md-0
                 p.mb-0 Evaluación del desempeño frente a los objetivos.

@@ -225,7 +225,7 @@
           .row.justify-content-center.align-items-center(titulo="Fase 4")
             .col-12.col-lg-6.order-2.order-lg-1.mb-0
               h5.mb-4 Fase 4
-              p.mb-4 Formulación bajo criterio SMART: metodología utilizada para la formulación de objetivos que garantiza su claridad y viabilidad, asegurando que estos sean específicos (<em>specific</em>), medibles (<em>measurable</em>), alcanzables (<em>achievable</em>), relevantes (<em>relevant</em>) y definidos en un tiempo determinado (<em>time bound</em>). Su aplicación permite estructurar objetivos concretos que facilitan su seguimiento, control y evaluación dentro del plan de <em>marketing</em>.
+              p.mb-4 Formulación bajo criterio <em>SMART</em>: metodología utilizada para la formulación de objetivos que garantiza su claridad y viabilidad, asegurando que estos sean específicos (<em>specific</em>), medibles (<em>measurable</em>), alcanzables (<em>achievable</em>), relevantes (<em>relevant</em>) y definidos en un tiempo determinado (<em>time bound</em>). Su aplicación permite estructurar objetivos concretos que facilitan su seguimiento, control y evaluación dentro del plan de <em>marketing</em>.
             .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
               figure
                 img(src='@/assets/curso/tema1/img_24.png', class="img-fluid")
@@ -281,9 +281,9 @@
               figure.m-2
                 img(src="@/assets/curso/tema1/img_27.svg" )
             .col-12.col-md-8.col-lg-10.p-4
-              p.fw-bold.text-white.mb-3 Para profundizar en la formulación de objetivos SMART en <em>marketing</em>, te invitamos a consultar el siguiente video explicativo:
+              p.fw-bold.text-white.mb-3 Para profundizar en la formulación de objetivos <em>SMART</em> en <em>marketing</em>, te invitamos a consultar el siguiente video explicativo:
               a.boton.color-acento-botones.d-inline-flex.mb-2(href="https://www.youtube.com/watch?v=gY607xwUgpw&t=9s" target="_blank")
-                span Planeamiento de objetivos bajo el método SMART
+                span Planeamiento de objetivos bajo el método <em>SMART</em>
                 i.fas.fa-play-circle.ms-2
     
     .row.justify-content-center.align-items-center(data-aos="fade-right")
