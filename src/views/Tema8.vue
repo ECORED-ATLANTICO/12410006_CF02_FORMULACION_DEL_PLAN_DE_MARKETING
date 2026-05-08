@@ -47,7 +47,7 @@
 
     .bg_img_28.mb-0
 
-      p.mb-5(data-aos="zoom-in-right") La mejora continua integra una serie de elementos que la convierten en un proceso clave dentro del control del plan de marketing, ya que permite evaluar, ajustar y optimizar de manera constante las acciones implementadas. A continuación, se presentan las principales características que la definen y orientan su aplicación.
+      p.mb-5(data-aos="zoom-in-right") La mejora continua integra una serie de elementos que la convierten en un proceso clave dentro del control del plan de <em>marketing</em>, ya que permite evaluar, ajustar y optimizar de manera constante las acciones implementadas. A continuación, se presentan las principales características que la definen y orientan su aplicación.
 
       .row.justify-content-center.align-items-center.mb-5
         .col-8.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")

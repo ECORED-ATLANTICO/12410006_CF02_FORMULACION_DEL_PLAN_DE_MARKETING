@@ -108,7 +108,7 @@
             tr
               td.text-start Integración.
               td.text-start Coordina áreas.
-              td.text-start <em>marketing</em>, ventas y operaciones.
+              td.text-start <em>Marketing</em>, ventas y operaciones.
 
     .tarjeta.tarjeta--fondo-img-2.p-4.rounded-4.mb-3(data-aos="zoom-in-right")
       .row.justify-content-center.align-items-center.mb-0

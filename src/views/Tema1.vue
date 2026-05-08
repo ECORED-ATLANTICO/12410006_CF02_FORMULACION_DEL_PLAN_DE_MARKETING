@@ -43,11 +43,11 @@
             img(src='@/assets/curso/tema1/img_6.png', class="img-fluid") 
         .col-12.col-lg-8
           .tarjeta.color-primario-5.p-4.rounded-4.mb-3(data-aos="zoom-in-right")
-            p.mb-3 Como ejemplo aplicado, una empresa de <em>retail</em> puede establecer como objetivo “aumentar las ventas en un 15 % en el canal digital durante los próximos 6 meses”. Este objetivo es:
+            p.mb-3 Como ejemplo aplicado, una empresa de <em>retail</em> puede establecer como objetivo “aumentar las ventas en un 15 % en el canal digital durante los próximos seis (6) meses”. Este objetivo es:
             ul.list-unstyled.cita-decorada__texto.mb-3
               li.d-flex.align-items-start.mb-0
                 i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF707E; font-size: 15px; line-height: 1.5;").mb-0
-                span Medible
+                span Medible.
               li.d-flex.align-items-start.mb-0
                 i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF707E; font-size: 15px; line-height: 1.5;").mb-0
                 span Tiene tiempo definido.
