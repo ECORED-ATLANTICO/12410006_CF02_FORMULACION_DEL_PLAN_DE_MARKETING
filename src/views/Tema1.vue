@@ -258,14 +258,14 @@
             li.d-flex.align-items-start.mb-3
               i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF707E; font-size: 15px; line-height: 1.5;").mb-0
               span #[strong Segmento:] clientes entre 18 y 35 años.
-            li.d-flex.align-items-start.mb-0
+            li.d-flex.align-items-start.mb-3
               i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF707E; font-size: 15px; line-height: 1.5;").mb-0
               span #[strong Canal:] comercio electrónico.
             li.d-flex.align-items-start.mb-0
               i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF707E; font-size: 15px; line-height: 1.5;").mb-0
               span #[strong Objetivo final construido:] “aumentar en un 20 % las ventas digitales en el segmento de 18 a 35 años durante los próximos 6 meses”.
       .col-12.col-lg-4.mb-3.mb-lg-0
-        .tarjeta.color-primario-10.p-4.rounded-4.mb-5.h-100(data-aos="zoom-in-right")
+        .tarjeta.color-primario-10.p-4.rounded-4.mb-0.mb-lg-1.h-100(data-aos="zoom-in-right")
           .row.justify-content-center.align-items-center.mb-0
             .col-12.col-lg-12.mb-4(data-aos="zoom-in-right")
               p.mb-3 La construcción estructurada evita objetivos improvisados y asegura su alineación con la realidad organizacional.

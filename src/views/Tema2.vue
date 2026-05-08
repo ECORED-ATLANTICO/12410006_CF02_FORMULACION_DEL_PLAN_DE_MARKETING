@@ -25,7 +25,7 @@
 
       .row.justify-content-center.align-items-stretch.mb-5
         .col-12.col-lg-6.mb-3.mb-lg-0
-          .tarjeta.color-secundario-10.p-4.rounded-4.mb-5.h-100(data-aos="zoom-in-right")
+          .tarjeta.color-secundario-10.p-4.rounded-4.mb-0.mb-lg-2.h-100(data-aos="zoom-in-right")
             p.mb-3 Desde una perspectiva aplicada, la estrategia permite responder tres preguntas clave:
             ul.list-unstyled.cita-decorada__texto.mb-0
               li.d-flex.align-items-start.mb-3
@@ -34,11 +34,11 @@
               li.d-flex.align-items-start.mb-3
                 i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF707E; font-size: 15px; line-height: 1.5;").mb-0
                 span ¿Qué valor ofrece?
-              li.d-flex.align-items-start.mb-3
+              li.d-flex.align-items-start.mb-0
                 i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF707E; font-size: 15px; line-height: 1.5;").mb-0
                 span ¿Cómo se diferencia?
         .col-12.col-lg-6.mb-3.mb-lg-0
-          .tarjeta.color-primario-10.p-4.rounded-4.mb-5.h-100(data-aos="zoom-in-right")
+          .tarjeta.color-primario-10.p-4.rounded-4.mb-0.mb-lg-2.h-100(data-aos="zoom-in-right")
             h5.mb-3 Ejemplo aplicado:
             p.mb-3 Una marca como Nike orienta su estrategia hacia:
             ul.list-unstyled.cita-decorada__texto.mb-0
@@ -48,7 +48,7 @@
               li.d-flex.align-items-start.mb-3
                 i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF707E; font-size: 15px; line-height: 1.5;").mb-0
                 span #[strong Valor:] innovación y rendimiento.
-              li.d-flex.align-items-start.mb-3
+              li.d-flex.align-items-start.mb-0
                 i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF707E; font-size: 15px; line-height: 1.5;").mb-0
                 span #[strong Posicionamiento:] marca aspiracional.
 

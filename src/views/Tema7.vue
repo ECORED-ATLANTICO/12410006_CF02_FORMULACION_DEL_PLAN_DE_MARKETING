@@ -146,10 +146,10 @@
       .col-12.col-lg-8
         .tarjeta.color-primario-60.p-5.rounded-3.mb-3(data-aos="zoom-in-right")
           .row.justify-content-center.align-items-center.mb-0
-            .col-6.col-lg-6.mb-lg-0.mb-3
+            .col-6.col-lg-3.mb-lg-0.mb-3
               figure
                 img(src="@/assets/curso/tema7/img_10.svg", class="img-fluid w-100")
-            .col-12.col-lg-6.mb-lg-0
+            .col-12.col-lg-9.mb-lg-0
               h2.mb-5.text-white Pódcast
               TarjetaAudio.color-acento-botones.mb-0.p-4(
                 texto="<I>Auditoria de marketing</I>"

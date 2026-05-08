@@ -98,7 +98,7 @@
       p.mb-5(data-aos="zoom-in-right") Para la elaboración de un presupuesto, es necesario tener en cuenta las siguientes fases: 
 
       .row.justify-content-center.align-items-stretch.mb-5
-        .col-12.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-10.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema4/img_14.png', class="img-fluid") 
         .col-12.col-lg-4.mb-3.mb-lg-0
