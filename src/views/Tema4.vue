@@ -125,99 +125,99 @@
         thead
           tr
             th.col-auto.col-lg-2 Categoría
-            th.col-auto.col-lg-3 Concepto
-            th.col-auto.col-lg-auto Ponderado
-            th.col-auto.col-lg-auto Valor 1
-            th.col-auto.col-lg-auto Valor 2
-            th.col-auto.col-lg-auto Valor 3
+            th.col-auto.col-lg-2 Concepto
+            th.col-auto Ponderado
+            th.col-auto Valor 1
+            th.col-auto Valor 2
+            th.col-auto Valor 3
         tbody
           tr
-            td(rowspan="4") DISTRIBUCIÓN.
-            td.text-start Entrega a domicilio.
-            td.text-start 80 %
-            td.text-start $ 2.870.700
-            td.text-start $ 2.097.600
-            td.text-start $ 3.257.100
+            td.col-auto.text-start(rowspan="4") DISTRIBUCIÓN.
+            td.col-auto.text-start Entrega a domicilio.
+            td.col-auto.text-start 80 %
+            td.col-auto.text-start $ 2.870.700
+            td.col-auto.text-start $ 2.097.600
+            td.col-auto.text-start $ 3.257.100
           tr
-            td.text-start Equipo soluciones posventa.
-            td.text-start 20 %
-            td.text-start $ 717.700
-            td.text-start $ 524.400
-            td.text-start $ 814.300
+            td.col-auto.text-start Equipo soluciones posventa.
+            td.col-auto.text-start 20 %
+            td.col-auto.text-start $ 717.700
+            td.col-auto.text-start $ 524.400
+            td.col-auto.text-start $ 814.300
           tr
-            td.text-start <em>Chat</em> de atención al cliente.
-            td.text-start 0 %
-            td.text-start $ 0
-            td.text-start $ 0
-            td.text-start $ 0 
+            td.col-auto.text-start <em>Chat</em> de atención al cliente.
+            td.col-auto.text-start 0 %
+            td.col-auto.text-start $ 0
+            td.col-auto.text-start $ 0
+            td.col-auto.text-start $ 0 
           tr
-            td.text-start TOTAL DISTRIBUCIÓN. 
-            td.text-start 100 %
-            td.text-start $ 3.588.400
-            td.text-start $ 2.622.000
-            td.text-start $ 4.071.400
+            td.col-auto.text-start TOTAL DISTRIBUCIÓN. 
+            td.col-auto.text-start 100 %
+            td.col-auto.text-start $ 3.588.400
+            td.col-auto.text-start $ 2.622.000
+            td.col-auto.text-start $ 4.071.400
           tr
-            td(rowspan="5") COMUNICACIÓN.
-            td.text-start Publicidad redes sociales.
-            td.text-start 10 %
-            td.text-start $ 1.255.900
-            td.text-start $ 917.700
-            td.text-start $ 1.425.000
+            td.col-auto.text-start(rowspan="5") COMUNICACIÓN.
+            td.col-auto.text-start Publicidad redes sociales.
+            td.col-auto.text-start 10 %
+            td.col-auto.text-start $ 1.255.900
+            td.col-auto.text-start $ 917.700
+            td.col-auto.text-start $ 1.425.000
           tr
-            td.text-start Plataformas <em>app e-commerce</em>.
-            td.text-start 80 %
-            td.text-start $ 10.047.500
-            td.text-start $ 7.341.600
-            td.text-start $ 11.399.900
+            td.col-auto.text-start Plataformas <em>app e-commerce</em>.
+            td.col-auto.text-start 80 %
+            td.col-auto.text-start $ 10.047.500
+            td.col-auto.text-start $ 7.341.600
+            td.col-auto.text-start $ 11.399.900
           tr
-            td.text-start Material publicitario.
-            td.text-start 5 %
-            td.text-start $ 628.000
-            td.text-start $ 458.900
-            td.text-start $ 712.500
+            td.col-auto.text-start Material publicitario.
+            td.col-auto.text-start 5 %
+            td.col-auto.text-start $ 628.000
+            td.col-auto.text-start $ 458.900
+            td.col-auto.text-start $ 712.500
           tr
-            td.text-start Catálogos digitales.
-            td.text-start 5 %
-            td.text-start $ 628.000
-            td.text-start $ 458.900
-            td.text-start $ 712.500
+            td.col-auto.text-start Catálogos digitales.
+            td.col-auto.text-start 5 %
+            td.col-auto.text-start $ 628.000
+            td.col-auto.text-start $ 458.900
+            td.col-auto.text-start $ 712.500
           tr
-            td.text-start TOTAL COMUNICACIÓN.
-            td.text-start 100 %
-            td.text-start $ 12.559.400
-            td.text-start $ 9.177.000
-            td.text-start $ 14.249.900
+            td.col-auto.text-start TOTAL COMUNICACIÓN.
+            td.col-auto.text-start 100 %
+            td.col-auto.text-start $ 12.559.400
+            td.col-auto.text-start $ 9.177.000
+            td.col-auto.text-start $ 14.249.900
           tr
-            td(rowspan="2") PRECIO.
-            td.text-start Cupones de descuento.
-            td.text-start 100 %
-            td.text-start $ 1.794.200
-            td.text-start $ 1.311.000
-            td.text-start $ 2.035.700
+            td.col-auto.text-start(rowspan="2") PRECIO.
+            td.col-auto.text-start Cupones de descuento.
+            td.col-auto.text-start 100 %
+            td.col-auto.text-start $ 1.794.200
+            td.col-auto.text-start $ 1.311.000
+            td.col-auto.text-start $ 2.035.700
           tr
-            td.text-start TOTAL PRECIO.
-            td.text-start 100 %
-            td.text-start $ 1.794.200
-            td.text-start $ 1.311.000
-            td.text-start $ 2.035.700
+            td.col-auto.text-start TOTAL PRECIO.
+            td.col-auto.text-start 100 %
+            td.col-auto.text-start $ 1.794.200
+            td.col-auto.text-start $ 1.311.000
+            td.col-auto.text-start $ 2.035.700
           tr
-            td(rowspan="2") OTROS.
-            td.text-start Otros.
-            td.text-start 0 %
-            td.text-start $ 0
-            td.text-start $ 0
-            td.text-start $ 0
+            td.col-auto.text-start(rowspan="2") OTROS.
+            td.col-auto.text-start Otros.
+            td.col-auto.text-start 0 %
+            td.col-auto.text-start $ 0
+            td.col-auto.text-start $ 0
+            td.col-auto.text-start $ 0
           tr
-            td.text-start TOTAL OTROS.
-            td.text-start 0 %
-            td.text-start $ 0
-            td.text-start $ 0
-            td.text-start $ 0
+            td.col-auto.text-start TOTAL OTROS.
+            td.col-auto.text-start 0 %
+            td.col-auto.text-start $ 0
+            td.col-auto.text-start $ 0
+            td.col-auto.text-start $ 0
           tr
-            td(colspan="3").text-start  PRESUPUESTO TOTAL.
-            td.text-start $ 17.942.000
-            td.text-start $ 13.110.000
-            td.text-start $ 20.357.000
+            td.col-auto.text-start(colspan="3")  PRESUPUESTO TOTAL.
+            td.col-auto.text-start $ 17.942.000
+            td.col-auto.text-start $ 13.110.000
+            td.col-auto.text-start $ 20.357.000
 
     p.mb-5(data-aos="zoom-in-right") Una correcta elaboración del presupuesto permite controlar los recursos y evaluar la rentabilidad de las acciones de <em>marketing</em>.
 
