@@ -153,7 +153,7 @@
               h2.mb-5.text-white Pódcast
               TarjetaAudio.color-acento-botones.mb-0.p-4(
                 texto="<I>Auditoria de marketing</I>"
-                :audio="require('@/assets/curso/tema7/img_10.svg')"
+                :audio="require('@/assets/curso/podcast/Podcast1.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = True")
                 .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
 </template>
