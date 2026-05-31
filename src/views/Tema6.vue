@@ -97,8 +97,8 @@
             h5 Figura 1.
             |    Características del KPI
           figure(data-aos="flip-left")
-            img(src='@/assets/curso/tema6/img_11.svg', class="img-fluid d-none d-lg-block", alt="La figura 1 describe las características del KPI. Estar alineado con objetivos organizacionales. Ser medible de forma clara y periódica. Permitir comparaciones en el tiempo. Servir como base para la toma de decisiones.").mb-3
-            img(src='@/assets/curso/tema6/img_12.svg', class="img-fluid d-block d-lg-none", alt="La figura 1 describe las características del KPI. Estar alineado con objetivos organizacionales. Ser medible de forma clara y periódica. Permitir comparaciones en el tiempo. Servir como base para la toma de decisiones.").mb-3
+            img(src='@/assets/curso/tema6/img_11.svg', class="img-fluid d-none d-lg-block", alt="La figura describe las características clave de los KPI mediante una ilustración con personas interactuando con gráficos y elementos estadísticos. Se destacan cuatro atributos principales: estar alineados con los objetivos organizacionales, ser medibles de forma clara y periódica, permitir comparaciones en el tiempo y servir como base para la toma de decisiones.").mb-3
+            img(src='@/assets/curso/tema6/img_12.svg', class="img-fluid d-block d-lg-none", alt="La figura describe las características clave de los KPI mediante una ilustración con personas interactuando con gráficos y elementos estadísticos. Se destacan cuatro atributos principales: estar alineados con los objetivos organizacionales, ser medibles de forma clara y periódica, permitir comparaciones en el tiempo y servir como base para la toma de decisiones.").mb-3
             figcaption Nota. SENA, (2026).
 
     Separador
