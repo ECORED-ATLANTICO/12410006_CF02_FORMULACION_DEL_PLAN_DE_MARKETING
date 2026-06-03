@@ -27,444 +27,449 @@ export default {
       preguntas: [
         {
           id: 1,
-          texto: 'Los objetivos deben ser medibles.',
+          texto:
+            '¿Cuál es la finalidad principal de los objetivos de <em>marketing</em> dentro del plan de <em>marketing</em>?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
-            },
+            { id: 'a', texto: 'Diseñar presupuestos.', esCorrecta: false },
             {
               id: 'b',
-              texto: 'Falso',
-              esCorrecta: false,
+              texto:
+                'Orientar las acciones comerciales hacia resultados específicos.',
+              esCorrecta: true,
             },
+            { id: 'c', texto: 'Controlar inventarios.', esCorrecta: false },
+            { id: 'd', texto: 'Gestionar la nómina.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! Los objetivos orientan las acciones comerciales y permiten medir los resultados esperados.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente los contenidos relacionados con objetivos de <em>marketing</em>.',
         },
         {
           id: 2,
-          texto: 'Las estrategias carecen de propósito.',
+          texto:
+            '¿Cuál de las siguientes características corresponde a un objetivo de <em>marketing</em> bien formulado?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
-              esCorrecta: true,
-            },
+            { id: 'a', texto: 'Ambiguo.', esCorrecta: false },
+            { id: 'b', texto: 'Flexible.', esCorrecta: false },
+            { id: 'c', texto: 'General.', esCorrecta: false },
+            { id: 'd', texto: 'Medible.', esCorrecta: true },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! Un objetivo debe ser medible para facilitar su seguimiento y evaluación.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente las características de los objetivos de <em>marketing</em>.',
         },
         {
           id: 3,
-          texto: 'Las tácticas operativizan las estrategias.',
+          texto: '¿Cuál es un ejemplo de objetivo cuantitativo?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Aumentar las ventas en un 10 %.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Mejorar la percepción de marca.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Fortalecer la reputación corporativa.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Incrementar la satisfacción del cliente.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! Los objetivos cuantitativos se expresan mediante cifras o porcentajes.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente las clases de objetivos de <em>marketing</em>.',
         },
         {
           id: 4,
-          texto: 'El presupuesto define recursos del plan.',
+          texto:
+            '¿Qué metodología se utiliza para formular objetivos claros y alcanzables?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'DOFA.', esCorrecta: false },
+            { id: 'b', texto: 'PESTEL.', esCorrecta: false },
+            { id: 'c', texto: 'SMART.', esCorrecta: true },
+            { id: 'd', texto: 'Benchmarking.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! La metodología SMART facilita la formulación de objetivos específicos y medibles.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente los contenidos relacionados con la construcción de objetivos.',
         },
         {
           id: 5,
-          texto: 'El cronograma organiza la estrategia, mas no la ejecución.',
+          texto: '¿Qué permite definir una estrategia de <em>marketing</em>?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'La estructura financiera.', esCorrecta: false },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'La forma de alcanzar los objetivos comerciales.',
               esCorrecta: true,
+            },
+            { id: 'c', texto: 'Los procesos contables.', esCorrecta: false },
+            {
+              id: 'd',
+              texto: 'Los procedimientos de contratación.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! La estrategia determina cómo la organización alcanzará sus objetivos comerciales.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el concepto de estrategia de <em>marketing</em>.',
         },
         {
           id: 6,
-          texto: 'Los KPI  permiten seguimiento.',
+          texto:
+            '¿Cuál es una característica de las estrategias de <em>marketing</em>?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
+            { id: 'a', texto: 'Orientación al mercado.', esCorrecta: true },
+            { id: 'b', texto: 'Incremento de costos.', esCorrecta: false },
+            { id: 'c', texto: 'Rigidez operativa.', esCorrecta: false },
             {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
+              id: 'd',
+              texto: 'Dependencia administrativa.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! Las estrategias de <em>marketing</em> buscan responder a las necesidades del mercado y de los consumidores.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente las características de las estrategias de <em>marketing</em>.',
         },
         {
           id: 7,
           texto:
-            'La auditoría forma parte de la ejecución para los resultados.',
+            '¿Qué estrategia busca definir la percepción que tienen los consumidores sobre una marca?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
+            { id: 'a', texto: 'Estrategia de costos.', esCorrecta: false },
+            { id: 'b', texto: 'Estrategia de producto.', esCorrecta: false },
             {
-              id: 'a',
-              texto: 'Verdadero',
+              id: 'c',
+              texto: 'Estrategia de distribución.',
               esCorrecta: false,
             },
             {
-              id: 'b',
-              texto: 'Falso',
+              id: 'd',
+              texto: 'Estrategia de posicionamiento.',
               esCorrecta: true,
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! El posicionamiento busca construir una imagen diferenciada de la marca en la mente del consumidor.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente los contenidos relacionados con posicionamiento.',
         },
         {
           id: 8,
-          texto: 'El <em>marketing</em> no se controla.',
+          texto:
+            '¿Cuál es una fase de la construcción de una estrategia de <em>marketing</em>?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Elaborar estados financieros.',
               esCorrecta: false,
             },
+            { id: 'b', texto: 'Definir la nómina.', esCorrecta: false },
             {
-              id: 'b',
-              texto: 'Falso',
+              id: 'c',
+              texto: 'Seleccionar el público objetivo.',
               esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Diseñar contratos laborales.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! La identificación del público objetivo es fundamental para diseñar estrategias efectivas.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el proceso de formulación de estrategias.',
         },
         {
           id: 9,
-          texto: 'La mejora continua optimiza procesos.',
+          texto: '¿Qué son las tácticas de <em>marketing</em>?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
-            },
+            { id: 'a', texto: 'Objetivos empresariales.', esCorrecta: false },
             {
               id: 'b',
-              texto: 'Falso',
-              esCorrecta: false,
+              texto: 'Acciones específicas para ejecutar una estrategia.',
+              esCorrecta: true,
             },
+            { id: 'c', texto: 'Indicadores financieros.', esCorrecta: false },
+            { id: 'd', texto: 'Procesos administrativos.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! Las tácticas corresponden a actividades concretas para implementar las estrategias.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente los contenidos relacionados con tácticas de <em>marketing</em>.',
         },
         {
           id: 10,
-          texto: 'El seguimiento no es necesario.',
+          texto:
+            '¿Cuál de las siguientes corresponde a una táctica de promoción?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
-              esCorrecta: true,
-            },
+            { id: 'a', texto: 'Campañas en redes sociales.', esCorrecta: true },
+            { id: 'b', texto: 'Estados financieros.', esCorrecta: false },
+            { id: 'c', texto: 'Inventarios.', esCorrecta: false },
+            { id: 'd', texto: 'Procesos de selección.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            '¡Correcto! Las campañas en redes sociales son una táctica utilizada para promocionar productos y servicios.',
+          mensaje_incorrecto: 'Revise nuevamente las tácticas promocionales.',
         },
         {
           id: 11,
-          texto: 'Las estrategias orientan la acción.',
+          texto:
+            '¿Qué variable del <em>marketing mix</em> se relaciona con descuentos y promociones?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Producto.', esCorrecta: false },
+            { id: 'b', texto: 'Plaza.', esCorrecta: false },
+            { id: 'c', texto: 'Precio.', esCorrecta: true },
+            { id: 'd', texto: 'Posicionamiento.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! El precio incluye estrategias relacionadas con descuentos, ofertas y condiciones comerciales.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente las variables del <em>marketing mix</em>.',
         },
         {
           id: 12,
-          texto: 'Los indicadores no son necesarios.',
+          texto:
+            '¿Qué elemento debe definirse durante la construcción de tácticas?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
+            { id: 'a', texto: 'La misión organizacional.', esCorrecta: false },
+            { id: 'b', texto: 'El reglamento interno.', esCorrecta: false },
+            { id: 'c', texto: 'La estructura legal.', esCorrecta: false },
             {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
+              id: 'd',
+              texto: 'Los responsables de ejecución.',
               esCorrecta: true,
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! Toda táctica debe tener responsables para garantizar su ejecución y seguimiento.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente la construcción de tácticas de <em>marketing</em>.',
         },
         {
           id: 13,
-          texto: 'El control mide desempeño.',
+          texto: '¿Qué representa el presupuesto de <em>marketing</em>?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto:
+                'La estimación de recursos financieros para ejecutar el plan.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'El organigrama de la empresa.',
               esCorrecta: false,
             },
+            { id: 'c', texto: 'La descripción de cargos.', esCorrecta: false },
+            { id: 'd', texto: 'El inventario disponible.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! El presupuesto establece los recursos económicos necesarios para desarrollar las acciones de <em>marketing</em>.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el tema de presupuesto de <em>marketing</em>.',
         },
         {
           id: 14,
-          texto: 'El presupuesto es irrelevante.',
+          texto:
+            '¿Cuál es la finalidad principal del presupuesto de <em>marketing</em>?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Contratar personal.', esCorrecta: false },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Asignar y controlar recursos financieros.',
               esCorrecta: true,
             },
+            { id: 'c', texto: 'Diseñar productos.', esCorrecta: false },
+            { id: 'd', texto: 'Elaborar contratos.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! El presupuesto facilita la planificación y control de los recursos económicos.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente los contenidos relacionados con presupuesto.',
         },
         {
           id: 15,
-          texto: 'El cronograma no aporta valor.',
+          texto:
+            '¿Qué tipo de presupuesto se construye justificando cada gasto desde cero?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
-              esCorrecta: true,
-            },
+            { id: 'a', texto: 'Incremental.', esCorrecta: false },
+            { id: 'b', texto: 'Competitivo.', esCorrecta: false },
+            { id: 'c', texto: 'Base cero.', esCorrecta: true },
+            { id: 'd', texto: 'Por ventas.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            '¡Correcto! El presupuesto base cero requiere justificar cada gasto antes de su aprobación.',
+          mensaje_incorrecto: 'Revise nuevamente los tipos de presupuesto.',
         },
         {
           id: 16,
-          texto: 'Evaluar permite mejorar decisiones.',
+          texto: '¿Cuál es una fase de la elaboración del presupuesto?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Estimar costos por actividad.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Definir misión empresarial.',
               esCorrecta: false,
             },
+            { id: 'c', texto: 'Elaborar reglamentos.', esCorrecta: false },
+            { id: 'd', texto: 'Contratar proveedores.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! La estimación de costos permite proyectar los recursos requeridos para cada actividad.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente las fases de elaboración del presupuesto.',
         },
         {
           id: 17,
-          texto: 'El plan se ejecuta sin análisis.',
+          texto: '¿Cuál es la función principal de los indicadores de gestión?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
+            { id: 'a', texto: 'Elaborar contratos.', esCorrecta: false },
+            { id: 'b', texto: 'Gestionar nómina.', esCorrecta: false },
+            { id: 'c', texto: 'Diseñar productos.', esCorrecta: false },
             {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
+              id: 'd',
+              texto: 'Medir el desempeño y cumplimiento de objetivos.',
               esCorrecta: true,
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! Los indicadores permiten evaluar resultados y tomar decisiones de mejora.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente los contenidos relacionados con indicadores de gestión.',
         },
         {
           id: 18,
-          texto: 'El seguimiento es permanente.',
+          texto: '¿Qué permite una auditoría de mercadeo?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
+              texto: 'Sustituir el plan de <em>marketing</em>.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
-              esCorrecta: false,
+              texto: 'Evaluar las acciones y resultados de <em>marketing</em>.',
+              esCorrecta: true,
             },
+            { id: 'c', texto: 'Eliminar indicadores.', esCorrecta: false },
+            { id: 'd', texto: 'Reducir la planificación.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! La auditoría de mercadeo permite identificar fortalezas, debilidades y oportunidades de mejora.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente los contenidos relacionados con auditoría de mercadeo.',
         },
         {
           id: 19,
-          texto: 'El <em>marketing</em> requiere control estratégico.',
+          texto:
+            '¿Cuál es el propósito de la mejora continua dentro del plan de <em>marketing</em>?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
+            { id: 'a', texto: 'Incrementar la burocracia.', esCorrecta: false },
+            { id: 'b', texto: 'Sustituir estrategias.', esCorrecta: false },
             {
-              id: 'a',
-              texto: 'Verdadero',
+              id: 'c',
+              texto: 'Optimizar procesos y resultados de forma permanente.',
               esCorrecta: true,
             },
-            {
-              id: 'b',
-              texto: 'Falso',
-              esCorrecta: false,
-            },
+            { id: 'd', texto: 'Eliminar controles.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! La mejora continua busca perfeccionar los procesos y resultados obtenidos.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente los contenidos relacionados con mejora continua.',
         },
         {
           id: 20,
-          texto: 'La mejora continua es opcional.',
+          texto:
+            '¿Qué beneficio genera la integración de objetivos, estrategias, tácticas y control dentro del plan de <em>marketing</em>?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: false,
+              texto:
+                'Garantizar coherencia entre planificación, ejecución y evaluación.',
+              esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso',
-              esCorrecta: true,
+              texto: 'Incrementar costos operativos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Reducir la información disponible.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Limitar la toma de decisiones.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            '¡Correcto! La integración de estos elementos fortalece la gestión y el cumplimiento de los objetivos comerciales.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente los contenidos relacionados con el diseño y control del plan de <em>marketing</em>.',
         },
       ],
       mensaje_final_aprobado:
