@@ -134,25 +134,25 @@
               th.col-auto.col-lg-5 Ejemplo
           tbody
             tr
-              td.text-start Cuantitativos.
-              td.text-start Se expresan en cifras.
-              td.text-start Aumentar ventas 10 %.
+              td.text-start Cuantitativos
+              td.text-start Se expresan en cifras
+              td.text-start Aumentar ventas 10 %
             tr
-              td.text-start Cualitativos.
-              td.text-start Relacionados con percepción.
-              td.text-start Mejorar posicionamiento de marca.
+              td.text-start Cualitativos
+              td.text-start Relacionados con percepción
+              td.text-start Mejorar posicionamiento de marca
             tr
-              td.text-start Corto plazo.
-              td.text-start Menor a un año.
-              td.text-start Incrementar <em>leads</em> en 3 meses.
+              td.text-start Corto plazo
+              td.text-start Menor a un año
+              td.text-start Incrementar <em>leads</em> en 3 meses
             tr
-              td.text-start Mediano plazo.
-              td.text-start Entre 1 y 3 años.
-              td.text-start Expandir cobertura regional.
+              td.text-start Mediano plazo
+              td.text-start Entre 1 y 3 años
+              td.text-start Expandir cobertura regional
             tr
-              td.text-start Largo plazo.
-              td.text-start Más de 3 años.
-              td.text-start Consolidar liderazgo de mercado.
+              td.text-start Largo plazo
+              td.text-start Más de 3 años
+              td.text-start Consolidar liderazgo de mercado
     
     .tarjeta.tarjeta--fondo-img-2.p-5.rounded-4.mb-3(data-aos="zoom-in-right")
       .row.justify-content-center.align-items-center.mb-0
@@ -160,7 +160,7 @@
           figure
             img(src='@/assets/curso/tema1/img_17.svg', class="img-fluid") 
         .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
-          p.mb-3 Como ejemplo aplicado, un <em>startup</em> digital puede plantear:
+          p.mb-3 Como ejemplo aplicado, una <em>startup</em> digital puede plantear:
           ul.list-unstyled.cita-decorada__texto.mb-3
             li.d-flex.align-items-start.mb-0
               i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF707E; font-size: 15px; line-height: 1.5;").mb-0

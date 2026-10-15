@@ -261,7 +261,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/63110196_CF2_DU.pdf',
+        download: 'downloads/63110196_CF2_CFA.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -402,38 +402,38 @@ export default {
   referencias: [
     {
       referencia:
-        'Deming, W. E. (1989).<em> Calidad, productividad y competitividad: La salida de la crisis.</em> Díaz de Santos.',
+        'Deming, W. E. (1989). Calidad, productividad y competitividad: La salida de la crisis.Díaz de Santos.',
       link: '',
     },
     {
       referencia:
-        'Farris, P. W., Bendle, N. T., Pfeifer, P. E., & Reibstein, D. J. (2018).<em> Métricas de <em>marketing</em>: La guía definitiva para medir el rendimiento del marketing.</em> Pearson.',
+        'Farris, P. W., Bendle, N. T., Pfeifer, P. E., & Reibstein, D. J. (2018). Métricas de <em>marketing</em>: La guía definitiva para medir el rendimiento del <em>marketing.</em> Pearson.',
       link: '',
     },
     {
       referencia:
-        'Kaplan, R. S., & Norton, D. P. (2014).<em> El cuadro de mando integral (<em>Balanced Scorecard</em>)</em>. Gestión 2000.',
+        'Kaplan, R. S., & Norton, D. P. (2014).El cuadro de mando integral (<em>Balanced Scorecard</em>). Gestión 2000.',
       link: '',
     },
     {
       referencia:
-        'Kotler, P., & Armstrong, G. (2017). <em>Fundamentos de marketing</em>. Pearson.',
+        'Kotler, P., & Armstrong, G. (2017). Fundamentos de <em>marketing</em>. Pearson.',
       link:
         'https://frrq.cvg.utn.edu.ar/pluginfile.php/14584/mod_resource/content/1/Fundamentos%20del%20Marketing-Kotler.pdf',
     },
     {
       referencia:
-        'Kotler, P., & Keller, K. L. (2016). <em>Dirección de marketing</em> (15.ª ed.). Pearson.',
+        'Kotler, P., & Keller, K. L. (2016). Dirección de <em>marketing</em> (15.ª ed.). Pearson.',
       link: '',
     },
     {
       referencia:
-        'Muñiz, R. (2018). <em>Marketing en el siglo XXI</em>. CEF Editorial.',
+        'Muñiz, R. (2018). <em>Marketing</em> en el siglo XXI. CEF Editorial.',
       link: '',
     },
     {
       referencia:
-        'Sainz de Vicuña, J. M. (2017). <em>Plan de marketing: diseño, implementación y control.</em> ESIC Editorial.',
+        'Sainz de Vicuña, J. M. (2017). Plan de <em>marketing</em>: diseño, implementación y control. ESIC Editorial.',
       link:
         'https://gc.scalahed.com/recursos/files/r161r/w24257w/LibroPlandeMarketing-1-92.pdf',
     },
@@ -445,7 +445,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
+            'Profesional G06. Responsable Ecosistema de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -465,7 +465,7 @@ export default {
         },
         {
           nombre: 'Laura Daniela Burgos Rueda',
-          cargo: 'Evaluador instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
@@ -500,12 +500,7 @@ export default {
       autores: [
         {
           nombre: 'Luz Karime Amaya Cabra',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
-        },
-        {
-          nombre: 'Laura Daniela Burgos Rueda',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
@@ -515,7 +510,7 @@ export default {
         },
         {
           nombre: 'Karine Isabel Ospino Fritz',
-          cargo: 'Validador y vinculador de recursos digitales',
+          cargo: 'Validadora y vinculadora de recursos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],

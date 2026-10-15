@@ -90,25 +90,25 @@
               th.col-auto.col-lg-5 Aplicación
           tbody
             tr
-              td.text-start Orientación al mercado.
-              td.text-start Se enfoca en el cliente.
-              td.text-start Responde a necesidades reales.
+              td.text-start Orientación al mercado
+              td.text-start Se enfoca en el cliente
+              td.text-start Responde a necesidades reales
             tr
-              td.text-start Coherencia.
-              td.text-start Alineada con objetivos.
-              td.text-start No contradice la planificación.
+              td.text-start Coherencia
+              td.text-start Alineada con objetivos
+              td.text-start No contradice la planificación
             tr
-              td.text-start Diferenciación.
-              td.text-start Genera valor único.
-              td.text-start Evita competir solo por precio.
+              td.text-start Diferenciación
+              td.text-start Genera valor único
+              td.text-start Evita competir solo por precio
             tr
-              td.text-start Flexibilidad.
-              td.text-start Se adapta al entorno.
-              td.text-start Ajuste ante cambios.
+              td.text-start Flexibilidad
+              td.text-start Se adapta al entorno
+              td.text-start Ajuste ante cambios
             tr
-              td.text-start Integración.
-              td.text-start Coordina áreas.
-              td.text-start <em>Marketing</em>, ventas y operaciones.
+              td.text-start Integración
+              td.text-start Coordina áreas
+              td.text-start <em>Marketing</em>, ventas y operaciones
 
     .tarjeta.tarjeta--fondo-img-2.p-4.rounded-4.mb-3(data-aos="zoom-in-right")
       .row.justify-content-center.align-items-center.mb-0
@@ -219,7 +219,7 @@
           img(src='@/assets/curso/tema2/img_17.png', class="img-fluid") 
       .col-12.col-lg-3.d-flex
         .tarjeta.color-primario-5.p-4.rounded-4.mb-0.h-100.d-flex.align-items-center(data-aos="zoom-in-right")
-          p.mb-0 Como ejemplo real, una empresa como Rappi, construye su estrategia con base en la inmediatez del servicio, la facilidad de uso de su plataforma y la amplitud de su oferta, respondiendo a las necesidades de consumidores urbanos que buscan eficiencia y conveniencia.
+          p.mb-0 Como ejemplo real, una empresa como Rappi construye su estrategia con base en la inmediatez del servicio, la facilidad de uso de su plataforma y la amplitud de su oferta, respondiendo a las necesidades de consumidores urbanos que buscan eficiencia y conveniencia.
 
     p.mb-4(data-aos="zoom-in-right") La construcción estratégica permite pasar del análisis a la acción, garantizando coherencia entre mercado, valor y ejecución.
 

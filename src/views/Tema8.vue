@@ -164,7 +164,7 @@
             .col-12.col-lg-9.mb-lg-0
               h2.mb-5.text-white Pódcast
               TarjetaAudio.color-acento-botones.mb-0.p-4(
-                texto="PHVA en el marketing"
+                texto="<I>Ciclo PHVA: mejora continua para empresas y emprendimientos.</I>"
                 :audio="require('@/assets/curso/podcast/Podcast2.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = True")
                 .indicador--click(v-if="mostrarIndicadorTarjetaAudio")

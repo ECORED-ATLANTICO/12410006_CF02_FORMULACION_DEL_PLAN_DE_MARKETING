@@ -14,11 +14,11 @@
           figure
             img(src='@/assets/curso/tema7/img_2.png', class="img-fluid") 
         .col-12.col-lg-7
-          p.mb-3(data-aos="zoom-in-right") La auditoría de <em>marketing</em> es una evaluación estructurada, periódica e independiente de las actividades de <em>marketing</em> , orientada a determinar su eficacia y coherencia con los objetivos organizacionales. 
+          p.mb-3(data-aos="zoom-in-right") La auditoría de <em>marketing</em> es una evaluación estructurada, periódica e independiente de las actividades de <em>marketing</em>, orientada a determinar su eficacia y coherencia con los objetivos organizacionales. 
           .tarjeta.tarjeta--fondo-img-1.p-4.rounded-4.mb-3(data-aos="zoom-in-right")
             .row.justify-content-center.align-items-center.mb-0
               .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
-                p.mb-0 En el contexto empresarial, la auditoría no se limita a revisar resultados, sino que analiza de forma integral el entorno, las estrategias, los recursos y los procesos, permitiendo fortalecer la toma de decisiones y mejorar la efectividad del plan de <em>marketing</em> .
+                p.mb-0 En el contexto empresarial, la auditoría no se limita a revisar resultados, sino que analiza de forma integral el entorno, las estrategias, los recursos y los procesos, permitiendo fortalecer la toma de decisiones y mejorar la efectividad del plan de <em>marketing</em>.
               .col-lg-2.d-lg-block.d-none.p-1(data-aos="zoom-in-right")
                 figure
                   img(src='@/assets/curso/tema7/img_3.svg', class="img-fluid")
@@ -93,25 +93,25 @@
             th.col-auto.col-lg-4 Resultado
         tbody
           tr
-            td.text-start Recolección.
-            td.text-start Obtención de datos.
-            td.text-start Información organizada.
+            td.text-start Recolección
+            td.text-start Obtención de datos
+            td.text-start Información organizada
           tr
-            td.text-start Diagnóstico.
-            td.text-start Evaluación del desempeño.
-            td.text-start Identificación de problemas.
+            td.text-start Diagnóstico
+            td.text-start Evaluación del desempeño
+            td.text-start Identificación de problemas
           tr
-            td.text-start Desviaciones.
-            td.text-start Comparación con objetivos.
-            td.text-start Brechas detectadas.
+            td.text-start Desviaciones
+            td.text-start Comparación con objetivos
+            td.text-start Brechas detectadas
           tr
-            td.text-start Análisis.
-            td.text-start Identificación de causas.
-            td.text-start Comprensión del problema.
+            td.text-start Análisis
+            td.text-start Identificación de causas
+            td.text-start Comprensión del problema
           tr
-            td.text-start Mejora.
-            td.text-start Acciones correctivas.
-            td.text-start Optimización del plan.
+            td.text-start Mejora
+            td.text-start Acciones correctivas
+            td.text-start Optimización del plan
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-8.col-lg-5.mb-3.mb-lg-0(data-aos="zoom-in-right")
@@ -152,7 +152,7 @@
             .col-12.col-lg-9.mb-lg-0
               h2.mb-5.text-white Pódcast
               TarjetaAudio.color-acento-botones.mb-0.p-4(
-                texto="<I>Auditoria de marketing</I>"
+                texto="<I>Auditoría de marketing: analizar para mejorar y crecer estratégicamente.</I>"
                 :audio="require('@/assets/curso/podcast/Podcast1.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = True")
                 .indicador--click(v-if="mostrarIndicadorTarjetaAudio")

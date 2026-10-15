@@ -34,7 +34,7 @@
           figure
             img(src='@/assets/curso/tema6/img_4.png', class="img-fluid") 
         .col-12.col-lg-8
-          p.mb-3(data-aos="zoom-in-right") Un KPI (<em>Key performance indicator</em>) o indicador clave de desempeño, es un indicador clave de rendimiento seleccionado estratégicamente porque mide de manera directa el grado de cumplimiento de un objetivo prioritario del negocio. No se trata simplemente de un dato relevante, sino de una variable crítica que permite evaluar el desempeño real de la estrategia digital.
+          p.mb-3(data-aos="zoom-in-right") Un KPI (<em>Key performance indicator</em>) o indicador clave de desempeño es un indicador clave de rendimiento seleccionado estratégicamente porque mide de manera directa el grado de cumplimiento de un objetivo prioritario del negocio. No se trata simplemente de un dato relevante, sino de una variable crítica que permite evaluar el desempeño real de la estrategia digital.
           .tarjeta.tarjeta--fondo-img-1.p-4.rounded-4.mb-3(data-aos="zoom-in-right")
             .row.justify-content-center.align-items-center.mb-0
               .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
@@ -64,7 +64,7 @@
         .row.justify-content-center.align-items-center
           .col-12.col-lg-5.order-2.order-lg-1.mb-0
             h5.mb-5 Ser medible de forma clara y periódica:
-            p.mb-0 Los KPI deben definirse de manera cuantificable, con criterios claros para su medición y registro. Esto permite un seguimiento constante y evita interpretaciones subjetivas. Además, la periodicidad en la medición diaria, semanal, mensual o trimestral, facilita la detección temprana de desviaciones y la adopción de acciones correctivas oportunas.
+            p.mb-0 Los KPI deben definirse de manera cuantificable, con criterios claros para su medición y registro. Esto permite un seguimiento constante y evita interpretaciones subjetivas. Además, la periodicidad en la medición diaria, semanal, mensual o trimestral facilita la detección temprana de desviaciones y la adopción de acciones correctivas oportunas.
           .col-12.col-lg-6.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/tema6/img_7.png', class="img-fluid")
@@ -123,25 +123,25 @@
             th.col-auto.col-lg-4 Ejemplo
         tbody
           tr
-            td.text-start KPI de alcance.
+            td.text-start KPI de alcance
             td.text-start Evalúan el nivel de visibilidad y exposición de la marca.
-            td.text-start Crecimiento porcentual mensual.
+            td.text-start Crecimiento porcentual mensual
           tr
-            td.text-start KPI de <em>engagement</em>.
+            td.text-start KPI de <em>engagement</em>
             td.text-start Miden el grado de interacción y conexión entre la marca y su comunidad.
-            td.text-start Tasa de interacción o <em>engagement</em> <em>rate</em>. 
+            td.text-start Tasa de interacción o <em>engagement</em> <em>rate</em>.
           tr
-            td.text-start KPI de conversión.
+            td.text-start KPI de conversión
             td.text-start Analizan la capacidad de la estrategia para generar acciones concretas que aporten valor al negocio.
-            td.text-start Tasa de conversión, generación de <em>leads</em>.
+            td.text-start Tasa de conversión, generación de <em>leads</em>
           tr
-            td.text-start KPI financieros.
+            td.text-start KPI financieros
             td.text-start Relacionan resultados con rentabilidad e inversión realizada.
-            td.text-start ROI (retorno sobre inversión).
+            td.text-start ROI (retorno sobre inversión)
           tr
-            td.text-start KPI de fidelización.
+            td.text-start KPI de fidelización
             td.text-start Evalúan la permanencia y lealtad del cliente en el tiempo.
-            td.text-start Tasa de retención de clientes.
+            td.text-start Tasa de retención de clientes
 
     .bg_img_22.mb-0
 
@@ -155,7 +155,7 @@
                 figure
                   img(src='@/assets/curso/tema6/img_14.svg', class="img-fluid") 
               .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
-                p.mb-0 En cuanto a la aplicabilidad de los KPI radica en su capacidad para simplificar la complejidad del entorno digital y enfocar la atención en lo verdaderamente estratégico. En lugar de analizar múltiples métricas dispersas, los KPI permiten concentrarse en los indicadores que impactan directamente el desempeño organizacional.
+                p.mb-0 En cuanto a la aplicabilidad, los KPI radican en su capacidad para simplificar la complejidad del entorno digital y enfocar la atención en lo verdaderamente estratégico. En lugar de analizar múltiples métricas dispersas, los KPI permiten concentrarse en los indicadores que impactan directamente el desempeño organizacional.
           p.mb-0(data-aos="zoom-in-right") Por ejemplo, la empresa Airbnb puede establecer como KPI principal la tasa de conversión de reservas provenientes de campañas digitales, ya que su objetivo estratégico es aumentar ocupación y ventas. Por su parte, Adidas podría priorizar como KPI el nivel de <em>engagement</em> en lanzamientos de producto, si su meta está asociada al posicionamiento y fortalecimiento de marca en redes sociales.
         .col-10.col-md-8.col-lg-5.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
@@ -217,7 +217,7 @@
         .h2(data-aos="fade-right") 6.4 Interpretación
       .mb-0 
       
-      p.mb-5(data-aos="zoom-in-right") La utilidad de los KPI radica en su capacidad para generar análisis que orienten la toma de decisiones dentro de un plan de <em>marketing</em> . A partir de su interpretación, es posible clasificar los resultados en distintos niveles de desempeño: 
+      p.mb-5(data-aos="zoom-in-right") La utilidad de los KPI radica en su capacidad para generar análisis que orienten la toma de decisiones dentro de un plan de <em>marketing</em>. A partir de su interpretación, es posible clasificar los resultados en distintos niveles de desempeño: 
 
       .row.justify-content-center.align-items-stretch.mb-3
         .col-12.col-lg-8.mb-3(data-aos="zoom-in-right")
@@ -251,7 +251,7 @@
               figure.m-2
                 img(src="@/assets/curso/tema1/img_27.svg" )
             .col-12.col-md-8.col-lg-10.p-4 
-              p.fw-bold.text-white.mb-3 Se invita a consultar los siguientes recursos prácticos para comprender qué es un KPI, cómo estructurarlo y conocer ejemplos aplicados a la medición en <em>marketing</em> .
+              p.fw-bold.text-white.mb-3 Se invita a consultar los siguientes recursos prácticos para comprender qué es un KPI, cómo estructurarlo y conocer ejemplos aplicados a la medición en <em>marketing</em>.
               a.boton.color-acento-botones.d-inline-flex.mb-3(href="https://www.youtube.com/watch?v=L4l5ocVM4SY" target="_blank")
                 span KPIs en redes sociales: ¿qué son?
                 i.fas.fa-play-circle.ms-2

@@ -78,7 +78,7 @@
       .tarjeta.tarjeta--fondo-img-2.p-4.rounded-4.mb-3(data-aos="zoom-in-right")
         .row.justify-content-center.align-items-center.mb-0
           .col-12.col-lg-11.mb-0(data-aos="zoom-in-right")
-            p.mb-0 Como ejemplo aplicado empresas como Coca-Cola combinan presupuesto por objetivos y análisis competitivo para definir su inversión global.
+            p.mb-0 Como ejemplo aplicado, empresas como Coca-Cola combinan presupuesto por objetivos y análisis competitivo para definir su inversión global.
           .col-lg-1.d-lg-block.d-none(data-aos="zoom-in-right")
             figure
               img(src='@/assets/curso/tema4/img_12.svg', class="img-fluid") 
@@ -113,7 +113,7 @@
           .tarjeta.color-primario-5.p-3.rounded-4.mb-0(data-aos="zoom-in-right")
             p.mb-0 Validar con capacidad financiera.
 
-    p.mb-5(data-aos="zoom-in-right") La siguiente tabla presenta un ejemplo de presupuesto de <em>marketing</em> aplicado a una empresa del sector de bolsos y calzado, con el objetivo de planificar y distribuir de manera estratégica los recursos en áreas clave como distribución, comunicación, precio y otros. Este presupuesto se construyó a partir de la asignación de ponderaciones porcentuales según la importancia de cada actividad dentro del proceso comercial y, se proyectó en tres escenarios (bajo, medio y alto), para facilitar la toma de decisiones según la capacidad de inversión. Además, los valores fueron redondeados a cifras reales y manejables en el contexto colombiano, garantizando coherencia, claridad y precisión en los cálculos.
+    p.mb-5(data-aos="zoom-in-right") La siguiente tabla presenta un ejemplo de presupuesto de <em>marketing</em> aplicado a una empresa del sector de bolsos y calzado, con el objetivo de planificar y distribuir de manera estratégica los recursos en áreas clave como distribución, comunicación, precio y otros. Este presupuesto se construyó a partir de la asignación de ponderaciones porcentuales según la importancia de cada actividad dentro del proceso comercial y se proyectó en tres escenarios (bajo, medio y alto), para facilitar la toma de decisiones según la capacidad de inversión. Además, los valores fueron redondeados a cifras reales y manejables en el contexto colombiano, garantizando coherencia, claridad y precisión en los cálculos.
 
     .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
       h5 Tabla 4.
@@ -132,92 +132,92 @@
             th.col-auto Valor 3
         tbody
           tr
-            td.col-auto.text-start(rowspan="4") DISTRIBUCIÓN.
-            td.col-auto.text-start Entrega a domicilio.
+            td.col-auto.text-start(rowspan="4") DISTRIBUCIÓN
+            td.col-auto.text-start Entrega a domicilio
             td.col-auto.text-start 80 %
-            td.col-auto.text-start $ 2.870.700
-            td.col-auto.text-start $ 2.097.600
-            td.col-auto.text-start $ 3.257.100
+            td.col-auto.text-start $2.870.700
+            td.col-auto.text-start $2.097.600
+            td.col-auto.text-start $3.257.100
           tr
-            td.col-auto.text-start Equipo soluciones posventa.
+            td.col-auto.text-start Equipo soluciones posventa
             td.col-auto.text-start 20 %
-            td.col-auto.text-start $ 717.700
-            td.col-auto.text-start $ 524.400
-            td.col-auto.text-start $ 814.300
+            td.col-auto.text-start $717.700
+            td.col-auto.text-start $524.400
+            td.col-auto.text-start $814.300
           tr
-            td.col-auto.text-start <em>Chat</em> de atención al cliente.
+            td.col-auto.text-start <em>Chat</em> de atención al cliente
             td.col-auto.text-start 0 %
-            td.col-auto.text-start $ 0
-            td.col-auto.text-start $ 0
-            td.col-auto.text-start $ 0 
+            td.col-auto.text-start $0
+            td.col-auto.text-start $0
+            td.col-auto.text-start $0 
           tr
-            td.col-auto.text-start TOTAL DISTRIBUCIÓN. 
+            td.col-auto.text-start TOTAL DISTRIBUCIÓN 
             td.col-auto.text-start 100 %
-            td.col-auto.text-start $ 3.588.400
-            td.col-auto.text-start $ 2.622.000
-            td.col-auto.text-start $ 4.071.400
+            td.col-auto.text-start $3.588.400
+            td.col-auto.text-start $2.622.000
+            td.col-auto.text-start $4.071.400
           tr
-            td.col-auto.text-start(rowspan="5") COMUNICACIÓN.
-            td.col-auto.text-start Publicidad redes sociales.
+            td.col-auto.text-start(rowspan="5") COMUNICACIÓN
+            td.col-auto.text-start Publicidad redes sociales
             td.col-auto.text-start 10 %
-            td.col-auto.text-start $ 1.255.900
-            td.col-auto.text-start $ 917.700
-            td.col-auto.text-start $ 1.425.000
+            td.col-auto.text-start $1.255.900
+            td.col-auto.text-start $917.700
+            td.col-auto.text-start $1.425.000
           tr
-            td.col-auto.text-start Plataformas <em>app e-commerce</em>.
+            td.col-auto.text-start Plataformas <em>app e-commerce</em>
             td.col-auto.text-start 80 %
-            td.col-auto.text-start $ 10.047.500
-            td.col-auto.text-start $ 7.341.600
-            td.col-auto.text-start $ 11.399.900
+            td.col-auto.text-start $10.047.500
+            td.col-auto.text-start $7.341.600
+            td.col-auto.text-start $11.399.900
           tr
-            td.col-auto.text-start Material publicitario.
+            td.col-auto.text-start Material publicitario
             td.col-auto.text-start 5 %
-            td.col-auto.text-start $ 628.000
-            td.col-auto.text-start $ 458.900
-            td.col-auto.text-start $ 712.500
+            td.col-auto.text-start $628.000
+            td.col-auto.text-start $458.900
+            td.col-auto.text-start $712.500
           tr
-            td.col-auto.text-start Catálogos digitales.
+            td.col-auto.text-start Catálogos digitales
             td.col-auto.text-start 5 %
-            td.col-auto.text-start $ 628.000
-            td.col-auto.text-start $ 458.900
-            td.col-auto.text-start $ 712.500
+            td.col-auto.text-start $628.000
+            td.col-auto.text-start $458.900
+            td.col-auto.text-start $712.500
           tr
-            td.col-auto.text-start TOTAL COMUNICACIÓN.
+            td.col-auto.text-start TOTAL COMUNICACIÓN
             td.col-auto.text-start 100 %
-            td.col-auto.text-start $ 12.559.400
-            td.col-auto.text-start $ 9.177.000
-            td.col-auto.text-start $ 14.249.900
+            td.col-auto.text-start $12.559.400
+            td.col-auto.text-start $9.177.000
+            td.col-auto.text-start $14.249.900
           tr
-            td.col-auto.text-start(rowspan="2") PRECIO.
-            td.col-auto.text-start Cupones de descuento.
+            td.col-auto.text-start(rowspan="2") PRECIO
+            td.col-auto.text-start Cupones de descuento
             td.col-auto.text-start 100 %
-            td.col-auto.text-start $ 1.794.200
-            td.col-auto.text-start $ 1.311.000
-            td.col-auto.text-start $ 2.035.700
+            td.col-auto.text-start $1.794.200
+            td.col-auto.text-start $1.311.000
+            td.col-auto.text-start $2.035.700
           tr
-            td.col-auto.text-start TOTAL PRECIO.
+            td.col-auto.text-start TOTAL PRECIO
             td.col-auto.text-start 100 %
-            td.col-auto.text-start $ 1.794.200
-            td.col-auto.text-start $ 1.311.000
-            td.col-auto.text-start $ 2.035.700
+            td.col-auto.text-start $1.794.200
+            td.col-auto.text-start $1.311.000
+            td.col-auto.text-start $2.035.700
           tr
-            td.col-auto.text-start(rowspan="2") OTROS.
+            td.col-auto.text-start(rowspan="2") OTROS
             td.col-auto.text-start Otros.
             td.col-auto.text-start 0 %
-            td.col-auto.text-start $ 0
-            td.col-auto.text-start $ 0
-            td.col-auto.text-start $ 0
+            td.col-auto.text-start $0
+            td.col-auto.text-start $0
+            td.col-auto.text-start $0
           tr
-            td.col-auto.text-start TOTAL OTROS.
+            td.col-auto.text-start TOTAL OTROS
             td.col-auto.text-start 0 %
-            td.col-auto.text-start $ 0
-            td.col-auto.text-start $ 0
-            td.col-auto.text-start $ 0
+            td.col-auto.text-start $0
+            td.col-auto.text-start $0
+            td.col-auto.text-start $0
           tr
-            td.col-auto.text-start(colspan="3")  PRESUPUESTO TOTAL.
-            td.col-auto.text-start $ 17.942.000
-            td.col-auto.text-start $ 13.110.000
-            td.col-auto.text-start $ 20.357.000
+            td.col-auto.text-start(colspan="3")  PRESUPUESTO TOTAL
+            td.col-auto.text-start $17.942.000
+            td.col-auto.text-start $13.110.000
+            td.col-auto.text-start $20.357.000
 
     p.mb-5(data-aos="zoom-in-right") Una correcta elaboración del presupuesto permite controlar los recursos y evaluar la rentabilidad de las acciones de <em>marketing</em>.
 

@@ -43,7 +43,7 @@ export default {
             { id: 'd', texto: 'Gestionar la nómina.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! Los objetivos orientan las acciones comerciales y permiten medir los resultados esperados.',
+            ' Los objetivos orientan las acciones comerciales y permiten medir los resultados esperados.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con objetivos de <em>marketing</em>.',
         },
@@ -60,7 +60,7 @@ export default {
             { id: 'd', texto: 'Medible.', esCorrecta: true },
           ],
           mensaje_correcto:
-            '¡Correcto! Un objetivo debe ser medible para facilitar su seguimiento y evaluación.',
+            ' Un objetivo debe ser medible para facilitar su seguimiento y evaluación.',
           mensaje_incorrecto:
             'Revise nuevamente las características de los objetivos de <em>marketing</em>.',
         },
@@ -92,7 +92,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Los objetivos cuantitativos se expresan mediante cifras o porcentajes.',
+            ' Los objetivos cuantitativos se expresan mediante cifras o porcentajes.',
           mensaje_incorrecto:
             'Revise nuevamente las clases de objetivos de <em>marketing</em>.',
         },
@@ -109,7 +109,7 @@ export default {
             { id: 'd', texto: 'Benchmarking.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! La metodología SMART facilita la formulación de objetivos específicos y medibles.',
+            ' La metodología SMART facilita la formulación de objetivos específicos y medibles.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con la construcción de objetivos.',
         },
@@ -133,7 +133,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La estrategia determina cómo la organización alcanzará sus objetivos comerciales.',
+            ' La estrategia determina cómo la organización alcanzará sus objetivos comerciales.',
           mensaje_incorrecto:
             'Revise nuevamente el concepto de estrategia de <em>marketing</em>.',
         },
@@ -154,7 +154,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Las estrategias de <em>marketing</em> buscan responder a las necesidades del mercado y de los consumidores.',
+            ' Las estrategias de <em>marketing</em> buscan responder a las necesidades del mercado y de los consumidores.',
           mensaje_incorrecto:
             'Revise nuevamente las características de las estrategias de <em>marketing</em>.',
         },
@@ -179,7 +179,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El posicionamiento busca construir una imagen diferenciada de la marca en la mente del consumidor.',
+            ' El posicionamiento busca construir una imagen diferenciada de la marca en la mente del consumidor.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con posicionamiento.',
         },
@@ -208,7 +208,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La identificación del público objetivo es fundamental para diseñar estrategias efectivas.',
+            ' La identificación del público objetivo es fundamental para diseñar estrategias efectivas.',
           mensaje_incorrecto:
             'Revise nuevamente el proceso de formulación de estrategias.',
         },
@@ -228,7 +228,7 @@ export default {
             { id: 'd', texto: 'Procesos administrativos.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! Las tácticas corresponden a actividades concretas para implementar las estrategias.',
+            ' Las tácticas corresponden a actividades concretas para implementar las estrategias.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con tácticas de <em>marketing</em>.',
         },
@@ -245,7 +245,7 @@ export default {
             { id: 'd', texto: 'Procesos de selección.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! Las campañas en redes sociales son una táctica utilizada para promocionar productos y servicios.',
+            ' Las campañas en redes sociales son una táctica utilizada para promocionar productos y servicios.',
           mensaje_incorrecto: 'Revise nuevamente las tácticas promocionales.',
         },
         {
@@ -261,7 +261,7 @@ export default {
             { id: 'd', texto: 'Posicionamiento.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! El precio incluye estrategias relacionadas con descuentos, ofertas y condiciones comerciales.',
+            ' El precio incluye estrategias relacionadas con descuentos, ofertas y condiciones comerciales.',
           mensaje_incorrecto:
             'Revise nuevamente las variables del <em>marketing mix</em>.',
         },
@@ -282,7 +282,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Toda táctica debe tener responsables para garantizar su ejecución y seguimiento.',
+            ' Toda táctica debe tener responsables para garantizar su ejecución y seguimiento.',
           mensaje_incorrecto:
             'Revise nuevamente la construcción de tácticas de <em>marketing</em>.',
         },
@@ -307,7 +307,7 @@ export default {
             { id: 'd', texto: 'El inventario disponible.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! El presupuesto establece los recursos económicos necesarios para desarrollar las acciones de <em>marketing</em>.',
+            ' El presupuesto establece los recursos económicos necesarios para desarrollar las acciones de <em>marketing</em>.',
           mensaje_incorrecto:
             'Revise nuevamente el tema de presupuesto de <em>marketing</em>.',
         },
@@ -328,7 +328,7 @@ export default {
             { id: 'd', texto: 'Elaborar contratos.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! El presupuesto facilita la planificación y control de los recursos económicos.',
+            ' El presupuesto facilita la planificación y control de los recursos económicos.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con presupuesto.',
         },
@@ -345,7 +345,7 @@ export default {
             { id: 'd', texto: 'Por ventas.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! El presupuesto base cero requiere justificar cada gasto antes de su aprobación.',
+            ' El presupuesto base cero requiere justificar cada gasto antes de su aprobación.',
           mensaje_incorrecto: 'Revise nuevamente los tipos de presupuesto.',
         },
         {
@@ -368,7 +368,7 @@ export default {
             { id: 'd', texto: 'Contratar proveedores.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! La estimación de costos permite proyectar los recursos requeridos para cada actividad.',
+            ' La estimación de costos permite proyectar los recursos requeridos para cada actividad.',
           mensaje_incorrecto:
             'Revise nuevamente las fases de elaboración del presupuesto.',
         },
@@ -388,7 +388,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Los indicadores permiten evaluar resultados y tomar decisiones de mejora.',
+            ' Los indicadores permiten evaluar resultados y tomar decisiones de mejora.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con indicadores de gestión.',
         },
@@ -412,7 +412,7 @@ export default {
             { id: 'd', texto: 'Reducir la planificación.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! La auditoría de mercadeo permite identificar fortalezas, debilidades y oportunidades de mejora.',
+            ' La auditoría de mercadeo permite identificar fortalezas, debilidades y oportunidades de mejora.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con auditoría de mercadeo.',
         },
@@ -433,7 +433,7 @@ export default {
             { id: 'd', texto: 'Eliminar controles.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! La mejora continua busca perfeccionar los procesos y resultados obtenidos.',
+            ' La mejora continua busca perfeccionar los procesos y resultados obtenidos.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con mejora continua.',
         },
@@ -467,7 +467,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La integración de estos elementos fortalece la gestión y el cumplimiento de los objetivos comerciales.',
+            ' La integración de estos elementos fortalece la gestión y el cumplimiento de los objetivos comerciales.',
           mensaje_incorrecto:
             'Revise nuevamente los contenidos relacionados con el diseño y control del plan de <em>marketing</em>.',
         },

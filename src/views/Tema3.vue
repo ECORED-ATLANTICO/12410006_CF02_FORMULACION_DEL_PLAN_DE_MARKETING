@@ -67,21 +67,21 @@
               th.col-auto.col-lg-5 Ejemplo
           tbody
             tr
-              td.text-start Producto.
-              td.text-start Acciones sobre el bien o servicio.
-              td.text-start Lanzamiento de nueva línea.
+              td.text-start Producto
+              td.text-start Acciones sobre el bien o servicio
+              td.text-start Lanzamiento de nueva línea
             tr
-              td.text-start Precio.
-              td.text-start Ajustes en valor monetario.
-              td.text-start Descuentos, promociones.
+              td.text-start Precio
+              td.text-start Ajustes en valor monetario
+              td.text-start Descuentos, promociones
             tr
-              td.text-start Plaza.
-              td.text-start Distribución y canales.
-              td.text-start Venta <em>online</em>, domicilios.
+              td.text-start Plaza
+              td.text-start Distribución y canales
+              td.text-start Venta <em>online</em>, domicilios
             tr
-              td.text-start Promoción.
-              td.text-start Comunicación y publicidad.
-              td.text-start Redes sociales, campañas.
+              td.text-start Promoción
+              td.text-start Comunicación y publicidad
+              td.text-start Redes sociales, campañas
 
     .row.justify-content-center.align-items-stretch.mb-5
       .col-12.col-lg-10.col-xl-5.d-flex.order-2.order-xl-1.mb-3

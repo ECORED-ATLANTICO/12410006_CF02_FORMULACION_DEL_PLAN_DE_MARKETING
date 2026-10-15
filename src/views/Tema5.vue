@@ -83,7 +83,7 @@
             figure
               img(src='@/assets/curso/tema5/img_11.svg', class="img-fluid") 
 
-    p.mb-3(data-aos="zoom-in-right") La elección del tipo de cronograma facilita la visualización y control del plan de <em>marketing</em>.
+    p.mb-3(data-aos="zoom-in-right") La elección del tipo de cronograma facilita la visualización y el control del plan de <em>marketing</em>.
 
     .bg_img_18.mb-0
 
@@ -127,25 +127,25 @@
             th.col-auto.col-lg-auto Semana 4
         tbody
           tr
-            td.text-start Diseño campaña.
+            td.text-start Diseño campaña
             td.bg-table-01 X
             td -
             td -
             td -
           tr
-            td.text-start Producción de contenido.
+            td.text-start Producción de contenido
             td.bg-table-01 X
             td.bg-table-02 X
             td -
             td -
           tr
-            td.text-start Lanzamiento.
+            td.text-start Lanzamiento
             td -
             td.bg-table-02 X
             td -
             td -
           tr
-            td.text-start Seguimiento.
+            td.text-start Seguimiento
             td -
             td -
             td.bg-table-03 X
